@@ -45,7 +45,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Description de l&#39;activité</h2>
 
-                    <p>Les 17 et 18 mai 2011 dernier s&#39;est tenue au karibe convention Center la conference Haiti telecom Expo qui deviendra cinq ans plus tard, soit en 2016 « Forum Telecom Haiti », une initiative de GESTE-HAITI. Plusieurs Intervenants et partenaires tels que le groupe Croissance avec kesner Pharel, Technologie et Communication Solution S.A avec Pierre Samuel et Baincure Company pour ne citer que ce dernier, ont participé à ce grand événement qui a attiré des centaines personnes de différentes secteurs de la société</p>
+                    <p>Les 17 et 18 mai 2011 dernier s&#39;est tenue au karibe convention Center la conférence Haiti telecom Expo qui deviendra cinq ans plus tard, soit en 2016 « Forum Telecom Haiti », une initiative de GESTE-HAITI. Plusieurs Intervenants et partenaires tels que le groupe Croissance avec kesner Pharel, Technologie et Communication Solution S.A avec Pierre Samuel et Baincure Company pour ne citer que ce dernier, ont participé à ce grand événement qui a attiré des centaines personnes de différentes secteurs de la société</p>
 
                     <p>Toutefois, nous nous sommes rendu compte que tout le monde ne profitait pas des retombées socio-économiques des télécommunications. Cette année encore GESTE-Haiti organise « Forum Telecom Haiti » un Forum dans le cadre de la journée mondiale des télécommunications et de la société de l’information (17 Mai) pour réunir les différents acteurs et spécialistes du secteur des télécommunications, pour un panorama des questions liées au développement des réseaux et des services de l’écosystème numérique et sur l’impact social des NTIC en Haïti.</p>
                 </div>
@@ -61,12 +61,12 @@
 
                     <p>Forum Telecom Haïti a pour objectif principal:</p>
 
-                    <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privée en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année</em></strong></p>
+                    <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privée en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année.</em></strong></p>
 
-                    <p>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social »</p>
+                    <p>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social ».</p>
 
                     <p>Les objectifs secondaires de cette initiative est de:</p>
-                    <ul>
+                    <ul class="text-left">
                         <li>Mieux faire comprendre les possibilités que l&#39;utilisation de la radio, la television, la téléphonie mobile , l&#39;Internet et des autres technliogies de l&#39;information et de la communication (TIC) peut offrir à la société haïtienne dans la lutte contre le chômage, l’insécurité, certains problèmes de l’éducation, de l’administration publique et autre</li>
                         <li>Sensibiliser les différents acteurs sur le développement et l’amélioration de l’économie numérique en Haïti en apportant de nouveaux services et de nouvelle clilaboration dans les secteurs des télécommunications.</li>
                         <li>permettre aux dirigeants du et aux entreprises d’offrir leurs points de vue personnels et leur puissants aperçus sur les orientations futures dans le secteur des Telecommunications en Haïti</li>
@@ -74,13 +74,13 @@
                         <li>Activer et consliider le partenariat entre les décideurs et les entreprises des télécommunications en Haïti en faveur du développement Social</li>
                     </ul>
 
-                    <p>La première édition de Forum Telecom Haïti, se déroulera pendant deux(2) jours, du 18 au 17 Mai 2016 de 9h00 am à 5h00 pm à l’Hotel Royal Oasis sous le Thème Mondiale de L’Union Internationale De Telecommunications (UIT)</p>
+                    <p>La première édition de Forum Telecom Haïti, se déroulera pendant deux(2) jours, du 18 au 17 Mai 2016 de 9h00 am à 5h00 pm à l’Hotel Royal Oasis sous le Thème Mondiale de L’Union Internationale De Telecommunications (UIT).</p>
 
-                    <p><strong>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social »</strong></p>
+                    <p><strong>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social ».</strong></p>
 
                     <p>C&#39;est un rendez-vous incontournable pour permettre aux jeunes entrepreneurs des NTIC d’avoir les informations nécessaires en saisissant les différentes opportunités que offre ce secteur.</p>
 
-                    <p>Deux journées ou les participants (étudiants, les futurs entrepreneurs des TIC, Les Medias, les régulateurs, Les operateurs, les décideurs et d’autres institutions des Télécoms vont s’échanger aux besoins de leur secteur et de la population haïtienne</p>
+                    <p>Deux journées ou les participants (étudiants, les futurs entrepreneurs des TIC, Les Medias, les régulateurs, Les operateurs, les décideurs et d’autres institutions des Télécoms vont s’échanger aux besoins de leur secteur et de la population haïtienne.</p>
 
                     <p>En tenant compte de plus de la moitie de la population haïtienne soit 6 á 7 millions qui utilise les réseaux de télécommunications (Radio, télévision, téléphone mobile, Internet, réseaux sociaux) Ce événement compte attirer beaucoup de gens d&#39;ici et d&#39;ailleurs et aura un important impact positif dans la secteur des télécommunication portant au développement socio économique du pays.</p>
 
@@ -103,7 +103,7 @@
 
                     <p>C&#39;est un rendez-vous incontournable pour permettre aux jeunes entrepreneurs des NTIC d’avoir les informations nécessaires en saisissant les différentes opportunités que offre ce secteur.</p>
 
-                    <p>Deux journées ou les participants (étudiants, les futurs entrepreneurs des TIC, Les Medias, les régulateurs, Les operateurs, les décideurs et d’autres institutions des Télécoms vont s’échanger aux besoins de leur secteur et de la population haïtienne</p>
+                    <p>Deux journées ou les participants (étudiants, les futurs entrepreneurs des TIC, Les Medias, les régulateurs, Les operateurs, les décideurs et d’autres institutions des Télécoms vont s’échanger aux besoins de leur secteur et de la population haïtienne.</p>
 
                     <p>En tenant compte de plus de la moitie de la population haïtienne soit 6 á 7 millions qui utilise les réseaux de télécommunications (Radio, télévision, téléphone mobile, Internet, réseaux sociaux) Ce événement compte attirer beaucoup de gens d&#39;ici et d&#39;ailleurs et aura un important impact positif dans la secteur des télécommunication portant au développement socio économique du pays.</p>
 
