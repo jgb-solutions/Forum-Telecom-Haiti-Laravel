@@ -5,7 +5,7 @@
                 <i class="fa fa-bars"></i>
             </button>
             <a class="navbar-brand page-scroll" href="#page-top">
-                {{ Config::get('site.name') }}
+                <img src="/img/forum-telecom-haiti-250.png" alt="{{ Config::get('site.name') }}">
             </a>
         </div>
 
