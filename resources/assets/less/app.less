@@ -39,7 +39,7 @@ p {
 }
 
 a {
-    color: @primary;
+    color: @link-color;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -48,6 +48,15 @@ a {
         text-decoration: none;
         color: darken(@primary,20%);
     }
+}
+
+
+a.light {
+    color: @link-color-light;
+}
+
+p a {
+     text-decoration: underline;
 }
 
 .light {

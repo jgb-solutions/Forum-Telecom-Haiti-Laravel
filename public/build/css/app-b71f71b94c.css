@@ -6793,6 +6793,12 @@ a:focus {
   text-decoration: none;
   color: #20204e;
 }
+a.light {
+  color: #CACACA;
+}
+p a {
+  text-decoration: underline;
+}
 .light {
   font-weight: 400;
 }

@@ -17,13 +17,16 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#fiche-technique">Fiche Technique</a>
+                    <a class="page-scroll" href="#fiche-technique">À Propos</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#description">Description</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#objectif">Objectif</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#evenement">L'Événement</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#inscription">S'inscrire</a>
