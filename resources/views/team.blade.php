@@ -32,7 +32,7 @@
                         <h3>Jean Gérard Bousiquot<br>
                             <small>Dévloppeur Web et Mobile</small>
                         </h3>
-                        <p class="text-left">﻿<small>Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a href="http://tikwenpam.net">Ti Kwen Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</small></p>
+                        <p class="text-left">﻿<small>Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a target="blank" href="http://tikwenpam.net">Ti Kwen Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</small></p>
                         <p>
                             <a
                                 href="https://twitter.com/jgbneatdesign"
