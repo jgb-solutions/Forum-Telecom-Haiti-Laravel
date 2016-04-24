@@ -35,7 +35,7 @@
                     <a class="page-scroll" href="#partenaires">Partenaires</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#l-equipe">L'Équipe</a>
+                    <a class="page-scroll" href="#lequipe">L'Équipe</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>

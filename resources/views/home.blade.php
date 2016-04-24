@@ -59,7 +59,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>OBJECTIF</h2>
 
-                    <p>Forum Telecom Haïti a pour objectif principal:</p>
+                    <p>Forum Telecom Haïti a pour objectif principal de:</p>
 
                     <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privée en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année.</em></strong></p>
 
@@ -91,7 +91,7 @@
         </div>
     </section>
 
-     <section id="evenement" class="content-section text-center noselect">
+    <section id="evenement" class="content-section text-center noselect">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
@@ -109,6 +109,37 @@
 
                     <p>Environ 30 institutions à la 1ere édition FORUM TELECOM HAITI sont attendus et
                     il est prévu la tenue De Conférences, débats et expositions à l’Hôtel Royal Oasis ce 17 et 18 mai 2016 de 9h00 Am à 5h00 pm.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+     <section id="lequipe" class="content-section text-center noselect">
+        <div class="container">
+            <div class="row">
+               <div class="row">
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail">
+                            <img src="img/jgb.jpg" alt="Jean Gérard Bousiquot">
+                            <div class="caption">
+                                <h3>Jean Gérard Bousiquot<br>
+                                    <small>Dévloppeur Web et Mobile</small>
+                                </h3>
+                                <p class="text-left">﻿<small>Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a href="http://tikwenpam.net">Ti Kwen Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</small></p>
+                                <p>
+                                    <a
+                                        href="https://twitter.com/jgbneatdesign"
+                                        class="btn btn-info" role="button"
+                                        target="blank">
+                                        <i class="fa fa-twitter"></i> @jgbNeatDesign</a>
+                                    <a
+                                        href="https://github.com/jgbneatdesign"
+                                        target="blank"
+                                        class="btn btn-default" role="button">
+                                        <i class="fa fa-github"></i> Github</a>
+                                </p>
+                            </div>
+                        </div>
+                  </div>
                 </div>
             </div>
         </div>
