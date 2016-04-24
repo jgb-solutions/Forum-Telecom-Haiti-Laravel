@@ -47,7 +47,7 @@
 
                     <p>Les 17 et 18 mai 2011 dernier s&#39;est tenue au karibe convention Center la conférence Haiti telecom Expo qui deviendra cinq ans plus tard, soit en 2016 « Forum Telecom Haiti », une initiative de GESTE-HAITI. Plusieurs Intervenants et partenaires tels que le groupe Croissance avec kesner Pharel, Technologie et Communication Solution S.A avec Pierre Samuel et Baincure Company pour ne citer que ce dernier, ont participé à ce grand événement qui a attiré des centaines personnes de différentes secteurs de la société</p>
 
-                    <p>Toutefois, nous nous sommes rendu compte que tout le monde ne profitait pas des retombées socio-économiques des télécommunications. Cette année encore GESTE-Haiti organise « Forum Telecom Haiti » un Forum dans le cadre de la journée mondiale des télécommunications et de la société de l’information (17 Mai) pour réunir les différents acteurs et spécialistes du secteur des télécommunications, pour un panorama des questions liées au développement des réseaux et des services de l’écosystème numérique et sur l’impact social des NTIC en Haïti.</p>
+                    <p>Toutefois, nous nous sommes rendu compte que tout le monde ne profitait pas des retombées socio-économiques des télécommunications. Cette année encore GESTE-Haiti organise « Forum Telecom Haiti » un Forum dans le cadre de la journée mondiale des télécommunications et de la société de l’information (17&nbsp;Mai) pour réunir les différents acteurs et spécialistes du secteur des télécommunications, pour un panorama des questions liées au développement des réseaux et des services de l’écosystème numérique et sur l’impact social des NTIC en Haïti.</p>
                 </div>
             </div>
         </div>
@@ -61,7 +61,7 @@
 
                     <p>Forum Telecom Haïti a pour objectif principal de:</p>
 
-                    <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privée en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année.</em></strong></p>
+                    <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privé en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année.</em></strong></p>
 
                     <p>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social ».</p>
 
@@ -73,31 +73,18 @@
                         <li>Sensibiliser les instances étatiques concernées à travers un plaidoyer sur l’utilisation des NTIC (L’administration électronique) pour une meilleure performance de l’Etat</li>
                         <li>Activer et consliider le partenariat entre les décideurs et les entreprises des télécommunications en Haïti en faveur du développement Social</li>
                     </ul>
-
-                    <p>La première édition de Forum Telecom Haïti, se déroulera pendant deux(2) jours, du 18 au 17 Mai 2016 de 9h00 am à 5h00 pm à l’Hotel Royal Oasis sous le Thème Mondiale de L’Union Internationale De Telecommunications (UIT).</p>
-
-                    <p><strong>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social ».</strong></p>
-
-                    <p>C&#39;est un rendez-vous incontournable pour permettre aux jeunes entrepreneurs des NTIC d’avoir les informations nécessaires en saisissant les différentes opportunités que offre ce secteur.</p>
-
-                    <p>Deux journées ou les participants (étudiants, les futurs entrepreneurs des TIC, Les Medias, les régulateurs, Les operateurs, les décideurs et d’autres institutions des Télécoms vont s’échanger aux besoins de leur secteur et de la population haïtienne.</p>
-
-                    <p>En tenant compte de plus de la moitie de la population haïtienne soit 6 á 7 millions qui utilise les réseaux de télécommunications (Radio, télévision, téléphone mobile, Internet, réseaux sociaux) Ce événement compte attirer beaucoup de gens d&#39;ici et d&#39;ailleurs et aura un important impact positif dans la secteur des télécommunication portant au développement socio économique du pays.</p>
-
-                    <p>Environ 30 institutions à la 1ere édition FORUM TELECOM HAITI sont attendus et
-                    il est prévu la tenue De Conférences, débats et expositions à l’Hôtel Royal Oasis ce 17 et 18 mai 2016 de 9h00 Am à 5h00 pm.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="evenement" class="content-section text-center noselect">
+    <section id="evenement" class="content-section text-center noselect bg-blue">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>L'Événement</h2>
 
-                    <p>La première édition de Forum Telecom Haïti, se déroulera pendant deux(2) jours, du 18 au 17 Mai 2016 de 9h00 am à 5h00 pm à l’Hotel Royal Oasis sous le Thème Mondiale de L’Union Internationale De Telecommunications (UIT)</p>
+                    <p>La première édition de Forum Telecom Haïti, se déroulera pendant deux (2) jours, du 17 au 18 Mai 2016 de 9h00 am à 5h00 pm à l’Hotel Royal Oasis sous le Thème Mondiale de L’Union Internationale De Telecommunications (UIT)</p>
 
                     <p><strong>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social »</strong></p>
 
@@ -107,39 +94,37 @@
 
                     <p>En tenant compte de plus de la moitie de la population haïtienne soit 6 á 7 millions qui utilise les réseaux de télécommunications (Radio, télévision, téléphone mobile, Internet, réseaux sociaux) Ce événement compte attirer beaucoup de gens d&#39;ici et d&#39;ailleurs et aura un important impact positif dans la secteur des télécommunication portant au développement socio économique du pays.</p>
 
-                    <p>Environ 30 institutions à la 1ere édition FORUM TELECOM HAITI sont attendus et
-                    il est prévu la tenue De Conférences, débats et expositions à l’Hôtel Royal Oasis ce 17 et 18 mai 2016 de 9h00 Am à 5h00 pm.</p>
+                   <p>Environ 30 institutions sont attendus à la 1<sup>ère</sup> édition FORUM TELECOM HAITI où il est prévu la tenue de plusieurs Conférences, débats et expositions à l’Hôtel&nbsp;Royal&nbsp;Oasis ce 17 et 18 mai 2016 de 9h00 Am à 5h00 pm.</p>
                 </div>
             </div>
         </div>
     </section>
      <section id="lequipe" class="content-section text-center noselect">
         <div class="container">
+                <h2>L'Équipe</h2>
             <div class="row">
-               <div class="row">
-                    <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
-                            <img src="img/jgb.jpg" alt="Jean Gérard Bousiquot">
-                            <div class="caption">
-                                <h3>Jean Gérard Bousiquot<br>
-                                    <small>Dévloppeur Web et Mobile</small>
-                                </h3>
-                                <p class="text-left">﻿<small>Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a href="http://tikwenpam.net">Ti Kwen Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</small></p>
-                                <p>
-                                    <a
-                                        href="https://twitter.com/jgbneatdesign"
-                                        class="btn btn-info" role="button"
-                                        target="blank">
-                                        <i class="fa fa-twitter"></i> @jgbNeatDesign</a>
-                                    <a
-                                        href="https://github.com/jgbneatdesign"
-                                        target="blank"
-                                        class="btn btn-default" role="button">
-                                        <i class="fa fa-github"></i> Github</a>
-                                </p>
-                            </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/jgb.jpg" alt="Jean Gérard Bousiquot">
+                        <div class="caption">
+                            <h3>Jean Gérard Bousiquot<br>
+                                <small>Dévloppeur Web et Mobile</small>
+                            </h3>
+                            <p class="text-left">﻿<small>Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a href="http://tikwenpam.net">Ti Kwen Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</small></p>
+                            <p>
+                                <a
+                                    href="https://twitter.com/jgbneatdesign"
+                                    class="btn btn-info" role="button"
+                                    target="blank">
+                                    <i class="fa fa-twitter"></i> @jgbNeatDesign</a>
+                                <a
+                                    href="https://github.com/jgbneatdesign"
+                                    target="blank"
+                                    class="btn btn-default" role="button">
+                                    <i class="fa fa-github"></i> Github</a>
+                            </p>
                         </div>
-                  </div>
+                    </div>
                 </div>
             </div>
         </div>
