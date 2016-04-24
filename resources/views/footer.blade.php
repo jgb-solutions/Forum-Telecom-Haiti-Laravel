@@ -4,7 +4,7 @@
             <p>&copy; {{ date('Y') . ' ' . Config::get('site.name') }}. Tous droits réservés</p>
             <p>
                 <small>
-                    Développé par <a target="blank" href="https://twitter.com/jgbneatdesign">@JGB! Neat Design</a>
+                    Développé par <a class="light" target="blank" href="https://twitter.com/jgbneatdesign">JGB! Neat Design</a>
                 </small>
             </p>
         </div>
