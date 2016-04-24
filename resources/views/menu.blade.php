@@ -17,7 +17,7 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#fiche-technique">À Propos</a>
+                    <a class="page-scroll" href="#a-propos">À Propos</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#description">Description</a>
