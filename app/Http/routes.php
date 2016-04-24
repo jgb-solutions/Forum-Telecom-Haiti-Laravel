@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::controller('/', 'MainController');
 
 /*
 |--------------------------------------------------------------------------
@@ -28,9 +26,4 @@ Route::get('/', function () {
 
 Route::group(['middleware' => ['web']], function () {
     //
-});
-
-Route::get('user', function()
-{
-	return App\User::all();
 });
