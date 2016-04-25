@@ -11,7 +11,7 @@
                     <div class="col-sm-8 col-sm-offset-2">
                         <form method="POST" role="form" novalidate name="regForm">
                             <div class="form-group">
-                                Vous vous inscrivez à titre:
+                                Vous êtes un(e):
                                 <label class="radio-inline">
                                     <input
                                         type="radio"
