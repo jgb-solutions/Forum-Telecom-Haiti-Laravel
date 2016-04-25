@@ -13,4 +13,9 @@ class MainController extends Controller
     {
     	return view('home');
     }
+
+    public function postProcess(Request $request)
+    {
+    	return $response = ['success' => true, 'data' => $request->all()];
+    }
 }

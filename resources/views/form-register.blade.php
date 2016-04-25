@@ -4,12 +4,11 @@
             <div class="col-lg-8 col-lg-offset-2">
                  <h2 class="text-center">S'inscrire au Forum <br>
                     <small>Uitilisez la forme pour vous inscrire.</small>
-                    <small><pre>@{{ user }}</pre></small>
                 </h2>
 
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <form method="POST" role="form" novalidate name="regForm">
+                        <form method="POST" role="form" novalidate name="regForm" ng-submit="processForm()">
                             <div class="form-group">
                                 Vous êtes un(e):
                                 <label class="radio-inline">
@@ -37,13 +36,13 @@
                                     class="form-control"
                                     id="name"
                                     name="name"
-                                    placeholder="Entrez votre nom complet"
+                                    placeholder="Votre nom complet ou celui de votre entreprise."
                                     ng-model="user.name"
                                     ng-required="true">
                                 <div
                                     class="text-center text-danger"
                                     ng-show="regForm.name.$invalid && regForm.name.$touched">
-                                    Vous devez entrer votre nom complet
+                                    Vous devez entrer votre nom complet ou celui de votre entreprise
                                 </div>
                             </div>
                             <div class="form-group">
@@ -52,7 +51,7 @@
                                     class="form-control"
                                     id="email"
                                     name="email"
-                                    placeholder="Entrez votre e-mail"
+                                    placeholder="Votre e-mail ou celui de votre entreprise."
                                     ng-model="user.email"
                                     ng-required="true">
                                 <div
@@ -63,11 +62,11 @@
                             </div>
                             <div class="form-group">
                                 <input
-                                    type="tel"
+                                    type="number"
                                     class="form-control"
                                     id="telephone"
                                     name="telephone"
-                                    placeholder="Entrez votre numéro de téléphone"
+                                    placeholder="Votre numéro de téléphone ou celui de votre entreprise."
                                     ng-model="user.telephone"
                                     ng-required="true">
                                 <div
@@ -98,7 +97,8 @@
                                     <input
                                         type="checkbox"
                                         name="confirmation"
-                                        ng-model="user.confirm">
+                                        ng-model="user.confirm"
+                                        ng-required="true">
                                         Je confirme que ces informations sont correctes.
                                 </label>
                             </div>
@@ -106,7 +106,7 @@
                                 <button
                                     type="submit"
                                     class="btn btn-primary"
-                                    ng-disabled="!user.confirm || regForm.$invalid">S'inscrire
+                                    ng-disabled="regForm.$invalid">S'inscrire
                                 </button>
                             </p>
                         </form>

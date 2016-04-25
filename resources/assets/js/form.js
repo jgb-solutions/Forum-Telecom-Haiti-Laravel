@@ -7,5 +7,15 @@ angular.module('forumTelecomHaiti', [])
 	$scope.user = {
 		typeInscription: 'individuel'
 	};
-	console.log($scope);
+
+	$scope.processForm = function()
+	{
+		// console.log($scope.user);
+
+		$http.post('/process', $scope.user).success(function(response)
+		{
+			console.log(response);
+		});
+	}
+
 }]);
