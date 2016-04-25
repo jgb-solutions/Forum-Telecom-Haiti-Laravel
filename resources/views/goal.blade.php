@@ -18,6 +18,7 @@
                     <li>Sensibiliser les instances étatiques concernées à travers un plaidoyer sur l’utilisation des NTIC (L’administration électronique) pour une meilleure performance de l’Etat</li>
                     <li>Activer et consliider le partenariat entre les décideurs et les entreprises des télécommunications en Haïti en faveur du développement Social</li>
                 </ul>
+                <br><br>
             </div>
         </div>
     </div>

@@ -3,7 +3,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h1 class="brand-heading">{{ Config::get('site.name') }}</h1>
+                    <h1 class="brand-heading">
+                        {{ Config::get('site.name') }} <br>
+                        <small>
+                            <small>
+                                <small>Les 17 et 18 mai à l'hôtel Royal Oasis.</small>
+                            </small>
+                        </small>
+                    </h1>
                     <p class="intro-text">
                         La rencontre des acteurs de télécommunications en Haiti.
                     </p>

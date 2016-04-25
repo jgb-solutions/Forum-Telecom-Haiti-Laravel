@@ -1,9 +1,7 @@
 @include('header')
 
-<!-- Navigation -->
 @include('menu')
 
-    <!-- Intro Header -->
     @include('head')
 
     @include('about')
@@ -14,10 +12,12 @@
 
     @include('event')
 
+    @include('form-register')
+
+    @include('partners')
+
     @include('team')
 
     @include('contact')
-
-    @include('map')
 
 @include('footer')
