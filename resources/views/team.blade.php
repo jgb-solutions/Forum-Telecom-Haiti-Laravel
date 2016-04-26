@@ -16,11 +16,12 @@
                                 class="btn btn-info" role="button"
                                 target="blank">
                                 <i class="fa fa-twitter"></i> @jgbNeatDesign</a>
-                            <a
-                                href="https://github.com/jgbneatdesign"
+                           <a
+                                href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
                                 target="blank"
-                                class="btn btn-default" role="button">
-                                <i class="fa fa-github"></i> Github</a>
+                                class="btn btn-primary" role="button">
+                                <i class="fa fa-linkedin"></i> LinkedIn
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -40,10 +41,11 @@
                                 target="blank">
                                 <i class="fa fa-twitter"></i> @jgbNeatDesign</a>
                             <a
-                                href="https://github.com/jgbneatdesign"
+                                href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
                                 target="blank"
-                                class="btn btn-default" role="button">
-                                <i class="fa fa-github"></i> Github</a>
+                                class="btn btn-primary" role="button">
+                                <i class="fa fa-linkedin"></i> LinkedIn
+                            </a>
                         </p>
                     </div>
                 </div>

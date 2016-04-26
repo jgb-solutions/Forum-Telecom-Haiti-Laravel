@@ -8,41 +8,39 @@
 
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <form method="POST" role="form" novalidate name="regForm" ng-submit="processForm()">
+                        <form
+                            method="POST"
+                            role="form" novalidate
+                            name="regForm"
+                            ng-submit="processForm()">
                             <div class="form-group">
-                                Vous êtes un(e):
-                                <label class="radio-inline">
-                                    <input
-                                        type="radio"
-                                        name="typeInscription"
-                                        id="inlineRadio1"
-                                        value="individuel"
-                                        ng-model="user.typeInscription"
-                                        ng-required="true"> Individuel
-                                </label>
-                                <label class="radio-inline">
-                                    <input
-                                        type="radio"
-                                        name="typeInscription"
-                                        id="inlineRadio2"
-                                        value="entreprise"
-                                        ng-model="user.typeInscription"
-                                        ng-required="true"> Entreprise
-                                </label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="name"
+                                    name="firstname"
+                                    placeholder="Prénom"
+                                    ng-model="user.firstname"
+                                    ng-required="true">
+                                <div
+                                    class="text-center text-danger"
+                                    ng-show="regForm.firstname.$invalid && regForm.firstname.$touched">
+                                    Vous devez entrer votre prénom
+                                </div>
                             </div>
                             <div class="form-group">
                                 <input
                                     type="text"
                                     class="form-control"
                                     id="name"
-                                    name="name"
-                                    placeholder="Votre nom complet ou celui de votre entreprise."
-                                    ng-model="user.name"
+                                    name="lastname"
+                                    placeholder="Votre nom"
+                                    ng-model="user.lastname"
                                     ng-required="true">
                                 <div
                                     class="text-center text-danger"
-                                    ng-show="regForm.name.$invalid && regForm.name.$touched">
-                                    Vous devez entrer votre nom complet ou celui de votre entreprise
+                                    ng-show="regForm.lastname.$invalid && regForm.lastname.$touched">
+                                    Vous devez entrer votre votre nom
                                 </div>
                             </div>
                             <div class="form-group">
@@ -51,7 +49,7 @@
                                     class="form-control"
                                     id="email"
                                     name="email"
-                                    placeholder="Votre e-mail ou celui de votre entreprise."
+                                    placeholder="E-mail"
                                     ng-model="user.email"
                                     ng-required="true">
                                 <div
@@ -66,7 +64,7 @@
                                     class="form-control"
                                     id="telephone"
                                     name="telephone"
-                                    placeholder="Votre numéro de téléphone ou celui de votre entreprise."
+                                    placeholder="Numéro de téléphone"
                                     ng-model="user.telephone"
                                     ng-required="true">
                                 <div
@@ -76,20 +74,33 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <textarea
-                                    name="description"
-                                    id="description"
-                                    name="description"
+                                <input
+                                    type="text"
                                     class="form-control"
-                                    rows="3"
-                                    required="required"
-                                    placeholder="Décrivez-vous ou votre entreprise en quelques mots."
-                                    ng-model="user.description"
-                                    ng-required="true"></textarea>
+                                    id="name"
+                                    name="activite"
+                                    placeholder="Secteur d'activité"
+                                    ng-model="user.activite"
+                                    ng-required="true">
                                 <div
                                     class="text-center text-danger"
-                                    ng-show="regForm.description.$invalid && regForm.description.$touched">
-                                    Vous devez vous décrire ou votre entreprise en quelque mots.
+                                    ng-show="regForm.activite.$invalid && regForm.activite.$touched">
+                                    Vous devez entrer votre nom complet ou celui de votre entreprise
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="name"
+                                    name="school"
+                                    placeholder="Ecole Professionnelle ou Université"
+                                    ng-model="user.school"
+                                    ng-required="true">
+                                <div
+                                    class="text-center text-danger"
+                                    ng-show="regForm.school.$invalid && regForm.school.$touched">
+                                    Vous devez entrer votre école professionnelle ou université
                                 </div>
                             </div>
                             <div class="checkbox">
