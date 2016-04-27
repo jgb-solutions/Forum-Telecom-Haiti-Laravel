@@ -1,4 +1,4 @@
-<section id="contact" class="content-section bg-blue" ng-controller="ContactController">
+<section id="contact" class="content-section" ng-controller="ContactController">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
@@ -142,11 +142,11 @@
                         </div>
                     </div>
                 <div>
-                <div ng-show="doneProcessing" class="text-center">
+                <div ng-show="doneContacting" class="text-center">
                     <h3 class="text-success">
-                        Félicitations! Inscription réussie.<br><br>
+                        Félicitations! Votre message a été envoyé.<br><br>
                         <small>
-                            Veuillez consulter votre e-mail. Nous vous avons envoyé des instructions nécessaires pour la suivie de votre inscription.
+                            Nous vous contacterons sous-peu si nécessaire.
                         </small>
                     </h3>
                     <p>

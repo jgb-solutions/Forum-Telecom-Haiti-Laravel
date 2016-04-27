@@ -1,7 +1,7 @@
 <section id="lequipe" class="content-section text-center noselect">
     <div class="container">
             <h2>L'Équipe</h2>
-        <div class="row">
+<!--         <div class="row">
 
             <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#jimmy-modal'>
@@ -253,10 +253,10 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est Dévloppeur/Designer Web/Mobile et Graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a target="blank" href="http://tikwenpam.net">Ti&nbsp;Kwen&nbsp;Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</p>
+                                <p class="text-left">﻿Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est designer, dévloppeur web/mobile et graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a target="blank" href="http://tikwenpam.net">Ti&nbsp;Kwen&nbsp;Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</p>
 
                                 <p class="text-left">
-                                    Il est passionément curieux et cherche toujours à augmenter ses connaissances en lisant de bons livres, mais qui traitent des sujets rodant autour de l'informatique. Il cherche presqu'à devenir le Mark Zuckerberg du pays en passant la majorité de son temps devant un ordinateur à dévlopper des produits technologiques pour le web et les plateformes mobiles Android et iOS.
+                                    Il est passionément curieux et cherche toujours à augmenter ses connaissances en lisant de bons livres, mais qui traitent des sujets rodant autour de l'informatique. Il cherche presqu'à devenir le Mark Zuckerberg du pays en passant la majorité de son temps devant un ordinateur à dévlopper des produits technologiques pour le web et les plateformes mobiles tels que Android et iOS.
                                 </p>
                             </div>
                             <div class="modal-footer">
@@ -282,6 +282,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>

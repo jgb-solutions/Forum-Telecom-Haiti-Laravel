@@ -43,13 +43,13 @@ angular.module('forumTelecomHaiti', [])
 			console.log(response);
 
 			$scope.formProcessing = false;
-			$scope.doneProcessing = true;
+			$scope.doneContacting = true;
 		});
 	}
 
 	$scope.newContactProcess = function()
 	{
-		$scope.doneProcessing = false;
+		$scope.doneContacting = false;
 		$scope.inputFocus = true;
 		$scope.contact = {};
 	}

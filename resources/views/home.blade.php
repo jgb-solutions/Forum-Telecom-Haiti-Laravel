@@ -18,6 +18,8 @@
 
     @include('team')
 
+	<hr>
+
     @include('contact')
 
 @include('footer')

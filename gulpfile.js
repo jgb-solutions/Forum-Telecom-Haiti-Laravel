@@ -13,7 +13,7 @@ var elixir = require('laravel-elixir');
 
 elixir(function(mix) {
     mix
-        .copy('vendor/bower/angular/angular.min.js', 'resources/assets/js/angular.js')
+        .copy('vendor/bower/angular/angular.js', 'resources/assets/js/angular.js')
         .copy('vendor/bower/jquery/dist/jquery.min.js', 'resources/assets/js/jquery.js')
 
         .less(['bootstrap.less', 'app.less'])
@@ -24,7 +24,8 @@ elixir(function(mix) {
             'bootstrap.js',
             'jquery.easing.js',
             'site.js',
-            'form.js'
+            'form.js',
+            'team.js'
         ])
 
         .version(['css/app.css', 'js/all.js'])

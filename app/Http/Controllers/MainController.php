@@ -16,6 +16,7 @@ class MainController extends Controller
 
     public function postProcess(Request $request)
     {
+    	// Mail::queue(view, data, callback, queue)
     	return $response = ['success' => true, 'data' => $request->all()];
     }
 }

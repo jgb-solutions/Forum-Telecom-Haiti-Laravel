@@ -18,7 +18,7 @@
                         <div class="col-sm-3 col-xs-6">
                             <p>
                                 <a
-                                    href="https://facebook.com/forumtelecomhaiti"
+                                    href="https://twitter.com/forumtelecomht"
                                     target="blank"
                                     class="btn btn-info">
                                     <i class="fa fa-twitter fa-fw"></i>
@@ -26,7 +26,7 @@
                                 </a>
                             </p>
                         </div>
-                        <div class="col-sm-3 col-xs-6">
+                        <!-- <div class="col-sm-3 col-xs-6">
                             <p>
                                 <a
                                     href="https://facebook.com/forumtelecomhaiti"
@@ -47,7 +47,7 @@
                                     <span class="network-name">youtube</span>
                                 </a>
                             </p>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
