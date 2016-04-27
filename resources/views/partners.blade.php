@@ -1,4 +1,4 @@
-<!-- <section id="partenaires" class="content-section text-center noselect bg-blue">
+<section id="partenaires" class="content-section text-center noselect bg-blue">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
@@ -14,4 +14,4 @@
             </div>
         </div>
     </div>
-</section> -->
+</section>

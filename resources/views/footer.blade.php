@@ -55,7 +55,7 @@
             <p>
                 <small><small>
                     &copy; {{ date('Y') . ' ' . Config::get('site.name') }}. Tous droits réservés.<br>
-                    {{ Config::get('site.name') }} est une initiative de GESTE HAITI.<br>
+                    {{ Config::get('site.name') }} est une initiative de GESTE-HAITI.<br>
                     Site web développé par <a class="light" target="blank" href="https://twitter.com/jgbneatdesign">JGB! Neat Design</a>.
                 </small></small>
             </p>

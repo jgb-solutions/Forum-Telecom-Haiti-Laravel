@@ -26,7 +26,7 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Biographie de Jimmy Aurélus.</p>
+                                <p class="text-left">﻿Jimmy Aurélus, Pasteur et Responsable de MultiMedia à l’Eglise sur le Rocher, Directeur de Multimedia &amp; Design School (MDS), une ecole d’administration et de multimédia et Président de GESTE-Haiti. Très tôt dans sa vie il développe une passion pour la télécommunication et les nouvelles technologies de l’information et de la communication où il a collabore à la réalisation de certains projets de différents organisations locales et internationales tels que Haiti-Alerte (HAALTE), fondation le Berger (FB), Kwabbs, Novergian Church Aid (NCA) etc… Animateur de radio et conseiller de plusieurs groupes musicaux évangéliques, li mene un plaidoyer en faveur de l’implantation des NTIC dans toutes les églises chretiennes evangeliques en Haiti en passant par l’Internet, la construction et l’importance des sites Web, le streaming media, les reseaux, le VoIP, la projection des images, chants, versets et messages.</p>
                             </div>
                             <div class="modal-footer">
                                <a
@@ -115,7 +115,10 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Biographie de Joseph Jean Ronald Eliacin</p>
+                                <p class="text-left">﻿Joseph Jean Ronald Eliacin a 10 ans de pratique en web &amp; Graphic Design. Avant de rejoindre en 2012 le groupe REBO (REBO SA, INTERNEGOCE SA, PISA) comme Graphiste Sénior, il a occupé le poste de « Graphic Designer » à Communication Plus, puis Directeur de Créativité à HI PROMO. Il s&#39;est lancé en 2010 dans le freelance où il évolue encore sous le nom de &quot;BY ELIACIN&quot;. Il est par ailleurs co-fondateur et PDG de CréaCtion Studio (une Startup de sublimation et d&#39;impression grand format et petit format).
+                                <p class="text-left">Son expérience se fonde sur des missions de design réalisées pour de grandes entreprises nationales et internationales, ONGs et associations, administrations publiques...</p>
+
+                                <p class="text-left">Avec une formule Clef en main (Création de Logo - Branding - identité visuelle - site web responsive…), il accompagne des startups de l&#39;idée à la concrétisation de leurs projets.</p>
                             </div>
                             <div class="modal-footer">
                                <a
@@ -139,7 +142,7 @@
             <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#marie-modal'>
                     <img
-                        src="img/kedson.jpg"
+                        src="img/junie-500x500.jpg"
                         alt="Marie Junie Jules"
                         class="img-responsive img-circle team">
                 <div class="caption">

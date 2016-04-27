@@ -6,7 +6,7 @@
 
                 <p>Forum Telecom Haïti a pour objectif principal de:</p>
 
-                <p><strong><em>Sensibiliser les acteurs des Télécommunications, le secteur public et privé en général sur l&#39;importance de la journée mondiale des télécommunications et sur le Thème de cette année.</em></strong></p>
+                <p><strong><em>Sensibiliser et réunir les différents acteurs et spécialistes du secteur des télécommunications, pour un panorama des questions liées au développement des réseaux et des services de l&#39;écosystème numérique et sur l&#39;impact social des NTIC en Haïti.</em></strong></p>
 
                 <p>« L&#39;entreprenariat dans le secteur des TIC au service du progrès social ».</p>
 
