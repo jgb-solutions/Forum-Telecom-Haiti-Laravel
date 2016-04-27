@@ -236,7 +236,7 @@
                         alt="Jean Gérard Bousiquot"
                         class="img-responsive img-circle team">
                 <div class="caption">
-                    <h4>Jean Gérard Bousiquot<br>
+                    <h4>Jn Gérard Bousiquot<br>
                         <small>Dévloppeur Web</small>
                     </h4>
                 </div>
