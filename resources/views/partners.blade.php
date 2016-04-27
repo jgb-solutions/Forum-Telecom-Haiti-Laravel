@@ -1,17 +1,28 @@
 <section id="partenaires" class="content-section text-center noselect bg-blue">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
                 <h2>Nos Partenaires</h2>
 
                 <div class="row">
-                    <div class="col-sm-3 text-center">Ti Kwen Pam</div>
-                    <div class="col-sm-3 text-center">hello</div>
-                    <div class="col-sm-3 text-center">hello</div>
-                    <div class="col-sm-3 text-center">hello</div>
+                    <div class="col-sm-3 text-center">
+                        <img src="img/ti-kwen-pam.jpg"
+                            class="img-responsive img-rounded parter"
+                            alt="Ti Kwen Pam http://tikwenpam.net"
+                            title="Ti Kwen Pam - Rezo Sosyal Mizik Ayisyen">
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <img src="img/logo-byEliacin-350.png"
+                            class="img-responsive img-rounded parter">
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <img src="img/new-vision-500x500.jpg"
+                            class="img-responsive img-rounded parter">
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <img src="img/iret.jpg"
+                            class="img-responsive img-rounded parter">
+                    </div>
                 </div>
-
-            </div>
         </div>
     </div>
 </section>

@@ -7076,6 +7076,9 @@ a.navbar-brand img {
 }
 img.team {
   border: 3px solid #3E3E96;
+}
+img.parter,
+img.team {
   display: block;
   width: 100%;
   margin-bottom: .5em;

@@ -50,7 +50,7 @@
                                         class="form-control"
                                         id="name"
                                         name="lastname"
-                                        placeholder="Votre nom"
+                                        placeholder="Nom"
                                         ng-model="contact.lastname"
                                         ng-required="true"
                                         ng-minlength="6">
@@ -112,7 +112,7 @@
                                         class="form-control"
                                         id="name"
                                         name="message"
-                                        placeholder="Ecrivez votre message"
+                                        placeholder="Message"
                                         ng-model="contact.message"
                                         ng-required="true"
                                         ng-minlength="50"></textarea>
