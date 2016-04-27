@@ -9,6 +9,18 @@
                         alt="Natcom"
                         title="Natcom">
                 </div>
+                <div class="col-sm-3 col-xs-6 text-center">
+                    <img src="img/juno7.jpg"
+                        class="img-responsive img-rounded parter"
+                        alt="Juno7"
+                        title="Juno7">
+                </div>
+                <div class="col-sm-3 col-xs-6 text-center">
+                    <img src="img/mds.jpg"
+                        class="img-responsive img-rounded parter"
+                        alt="MDS"
+                        title="MDS">
+                </div>
 
                 <div class="col-sm-3 col-xs-6 text-center">
                     <img src="img/ti-kwen-pam.jpg"
