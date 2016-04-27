@@ -1,5 +1,5 @@
 <header class="intro">
-<!--     <div class="intro-body">
+    <div class="intro-body">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
@@ -20,9 +20,9 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
-    <div id="carousel-id" class="carousel slide" data-ride="carousel">
+    <!-- <div id="carousel-id" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carousel-id" data-slide-to="0" class=""></li>
             <li data-target="#carousel-id" data-slide-to="1" class=""></li>
@@ -62,5 +62,5 @@
         </div>
         <a class="left carousel-control" href="#carousel-id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div>
+    </div> -->
 </header>

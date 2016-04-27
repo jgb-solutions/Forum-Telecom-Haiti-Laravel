@@ -14,7 +14,7 @@
 
                 <p>En tenant compte de plus de la moitie de la population haïtienne soit 6 á 7 millions qui utilise les réseaux de télécommunications (Radio, télévision, téléphone mobile, Internet, réseaux sociaux) Ce événement compte attirer beaucoup de gens d&#39;ici et d&#39;ailleurs et aura un important impact positif dans la secteur des télécommunication portant au développement socio économique du pays.</p>
 
-               <p>Environ 30 institutions sont attendus à la 1<sup>ère</sup> édition FORUM TELECOM HAITI où il est prévu la tenue de plusieurs Conférences, débats et expositions à l’Hôtel&nbsp;Royal&nbsp;Oasis ce 17 et 18 mai 2016 de 9h00 Am à 5h00 pm.</p>
+               <p>Environ 30 institutions sont attendus à la 1<sup>ère</sup> édition FORUM TELECOM HAITI où il est prévu la tenue de plusieurs Conférences, débats et expositions à l’Hôtel&nbsp;Royal&nbsp;Oasis les 17 et 18 mai 2016 de 9:00 AM à 5:00 PM.</p>
             </div>
         </div>
     </div>
