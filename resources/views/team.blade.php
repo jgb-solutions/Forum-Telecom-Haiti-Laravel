@@ -3,17 +3,17 @@
             <h2>L'Équipe</h2>
         <div class="row">
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#jimmy-modal'>
                     <img
                         src="img/Jimmy-Aurelus-500x500.jpg"
                         alt="Jimmy Aurélus"
                         class="img-responsive img-circle team">
-                <div class="caption">
-                    <h4>Jimmy Aurélus<br>
-                        <small>Coordonnateur Général</small>
-                    </h4>
-                </div>
+                    <div class="caption">
+                        <h4>Jimmy Aurélus<br>
+                            <small>Coordonnateur Général</small>
+                        </h4>
+                    </div>
                 </a>
 
                 <div class="modal fade" id="jimmy-modal">
@@ -22,8 +22,8 @@
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                 <h4>Jimmy Aurélus<br>
-                        <small>Coordonnateur Général</small>
-                    </h4>
+                                    <small>Coordonnateur Général</small>
+                                </h4>
                             </div>
                             <div class="modal-body">
                                 <p class="text-left">﻿Biographie de Jimmy Aurélus.</p>
@@ -46,17 +46,17 @@
                 </div>
             </div>
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#belavoir-modal'>
                     <img
                         src="img/belavoir.jpg"
                         alt="Belavoir Felner"
                         class="img-responsive img-circle team">
-                <div class="caption">
-                    <h4>Belavoir Felner<br>
-                        <small>Coordonnateur Adjoint</small>
-                    </h4>
-                </div>
+                    <div class="caption">
+                        <h4>Belavoir Felner<br>
+                            <small>Coordonnateur Adjoint</small>
+                        </h4>
+                    </div>
                 </a>
 
                 <div class="modal fade" id="belavoir-modal">
@@ -91,17 +91,17 @@
             </div>
 
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#ronald-modal'>
                     <img
                         src="img/ronald-500x500.jpg"
                         alt="Joseph Jean Ronald Eliacin"
                         class="img-responsive img-circle team">
-                <div class="caption">
-                    <h4>Joseph Jean Ronald Eliacin<br>
-                        <small>Reponsable Communication et Marketing</small>
-                    </h4>
-                </div>
+                    <div class="caption">
+                        <h4>J. J. Ronald Eliacin<br>
+                            <small>Reponsable Communication</small>
+                        </h4>
+                    </div>
                 </a>
 
                 <div class="modal fade" id="ronald-modal">
@@ -136,7 +136,7 @@
             </div>
 
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#marie-modal'>
                     <img
                         src="img/kedson.jpg"
@@ -181,7 +181,7 @@
             </div>
 
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#kedson-modal'>
                     <img
                         src="img/kedson.jpg"
@@ -226,7 +226,7 @@
             </div>
 
 
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#jgb-modal'>
                     <img
                         src="img/jgb.jpg"

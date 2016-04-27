@@ -31,9 +31,9 @@
                 <li>
                     <a class="page-scroll" href="#inscription">S'inscrire</a>
                 </li>
-                <li>
+                <!-- <li>
                     <a class="page-scroll" href="#partenaires">Partenaires</a>
-                </li>
+                </li> -->
                 <li>
                     <a class="page-scroll" href="#lequipe">L'Équipe</a>
                 </li>
