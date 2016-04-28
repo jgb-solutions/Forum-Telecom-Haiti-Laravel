@@ -144,17 +144,18 @@ p a {
         vertical-align: middle;
         .brand-heading {
             font-size: 40px;
-                -webkit-text-stroke-width: 2px;
-                -webkit-text-stroke-color: black;
+                // -webkit-text-stroke-width: 2px;
+                // -webkit-text-stroke-color: black;
+                .text-stroke();
                 small {
                     -webkit-text-stroke: 0;
-                    color: @red;
-                    text-shadow: 0px 1px 1px #fff;
+                    color: #000;
+                    .text-stroke(#fff);
                 }
         }
         .intro-text {
             font-size: 18px;
-            text-shadow: 1px 1px #000;
+            .text-stroke();
         }
     }
     @media(min-width:768px) {
