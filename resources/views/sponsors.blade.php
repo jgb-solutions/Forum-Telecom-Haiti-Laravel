@@ -26,12 +26,6 @@
 
                 <div class="row">
                     <div class="col-sm-3 col-xs-6 text-center">
-                        <img src="img/logo-natcom.jpg"
-                            class="img-responsive img-rounded parter"
-                            alt="Natcom"
-                            title="Natcom">
-                    </div>
-                    <div class="col-sm-3 col-xs-6 text-center">
                         <img src="img/juno7.jpg"
                             class="img-responsive img-rounded parter"
                             alt="Juno7"
