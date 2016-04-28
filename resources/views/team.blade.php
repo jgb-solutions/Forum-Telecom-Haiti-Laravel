@@ -26,7 +26,7 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Jimmy Aurélus, Pasteur et Responsable de MultiMedia à l’Eglise sur le Rocher, Directeur de Multimedia &amp; Design School (MDS), une ecole d’administration et de multimédia et Président de GESTE-Haiti. Très tôt dans sa vie il développe une passion pour la télécommunication et les nouvelles technologies de l’information et de la communication où il a collabore à la réalisation de certains projets de différents organisations locales et internationales tels que Haiti-Alerte (HAALTE), fondation le Berger (FB), Kwabbs, Novergian Church Aid (NCA) etc… Animateur de radio et conseiller de plusieurs groupes musicaux évangéliques, li mene un plaidoyer en faveur de l’implantation des NTIC dans toutes les églises chretiennes evangeliques en Haiti en passant par l’Internet, la construction et l’importance des sites Web, le streaming media, les reseaux, le VoIP, la projection des images, chants, versets et messages.</p>
+                                <p class="text-left">﻿Jimmy Aurélus, Pasteur et Responsable de MultiMedia à l’Eglise sur le Rocher, Directeur de Multimedia &amp; Design School (MDS), une ecole d’administration et de multimédia et Président de GESTE-Haiti. Très tôt dans sa vie il développe une passion pour la télécommunication et les nouvelles technologies de l’information et de la communication où il a collabore à la réalisation de certains projets de différents organisations locales et internationales tels que Haiti-Alerte (HAALTE), fondation le Berger (FB), Kwabbs, Novergian Church Aid (NCA) etc… Animateur de radio et conseiller de plusieurs groupes musicaux évangéliques, il mène un plaidoyer en faveur de l’implantation des NTIC dans toutes les églises chretiennes evangeliques en Haiti en passant par l’Internet, la construction et l’importance des sites Web, le streaming media, les reseaux, le VoIP, la projection des images, chants, versets et messages.</p>
                             </div>
                             <div class="modal-footer">
                                <a
@@ -166,7 +166,7 @@
                             </div>
                             <div class="modal-body">
                                 <p class="text-left">﻿
-                                    Née à Port-au-Prince, Jules Marie Junie, étudiante en Administration sociale et économique et en Marketing. PDG de Madjwel création,  Responsable financier a Geste Haïti , responsable Marketing a Bedjimine , avec un parcour comme agent communautaire chez March citymed.
+                                    Née à Port-au-Prince, Jules Marie Junie, étudiante en Administration sociale et économique et Marketing. PDG de Madjwel création,  Responsable financier a Geste Haïti , responsable Marketing a Bedjimine , avec un parcour comme agent communautaire chez March citymed.
                                 </p>
                                 <p class="text-left">Chrétienne , mon plus grand rêve est de voir un nouveau monde la ou l' Amour règne vraiment. Mon plus grand objectif , c' est être utile et pouvoir participer au bons changements de ma très chère Haïti.
                                 </p>
