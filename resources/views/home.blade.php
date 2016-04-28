@@ -18,10 +18,10 @@
 
     @include('team')
 
-	<hr>
+	@include('social')
 
     @include('contact')
- 
+
     @include('map')
 
 @include('footer')
