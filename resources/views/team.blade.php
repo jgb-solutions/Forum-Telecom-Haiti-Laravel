@@ -76,12 +76,12 @@
                             </div>
                             <div class="modal-footer">
                                <a
-                                    href="https://twitter.com/jgbneatdesign"
+                                    href="https://twitter.com/felnerbel"
                                     class="btn btn-info" role="button"
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
                                 <a
-                                    href="https://twitter.com/felnerbel"
+                                    href="https://www.linkedin.com/in/belavoir-felner-b4473834"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn
@@ -165,7 +165,11 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Biographie de Marie Junie Jules.</p>
+                                <p class="text-left">﻿
+                                    Née à Port-au-Prince, Jules Marie Junie, étudiante en Administration sociale et économique et en Marketing. PDG de Madjwel création,  Responsable financier a Geste Haïti , responsable Marketing a Bedjimine , avec un parcour comme agent communautaire chez March citymed.
+                                </p>
+                                <p class="text-left">Chrétienne , mon plus grand rêve est de voir un nouveau monde la ou l' Amour règne vraiment. Mon plus grand objectif , c' est être utile et pouvoir participer au bons changements de ma très chère Haïti.
+                                </p>
                             </div>
                             <div class="modal-footer">
                                <a
