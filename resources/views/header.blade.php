@@ -21,6 +21,7 @@
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:site_name" content="{{ config('site.name') }}"/>
+
     <link rel="canonical" href="{{ config('site.url') }}"/>
 
     <meta property="og:url" content="{{ config('site.url') }}"/>
