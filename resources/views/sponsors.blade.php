@@ -3,7 +3,7 @@
         <div class="row">
 
             <div class="col-sm-12">
-                <h2>Sponsor Niveau 1</h2>
+                <h2>Sponsors Niveau 1</h2>
                 <div class="row">
                     <div class="col-sm-3 col-xs-6 text-center">
                         <img src="img/conatel-logo-500x500.png"
@@ -22,7 +22,7 @@
 
             <div class="col-sm-12">
                 <hr>
-                <h2>Sponsor Niveau 2</h2>
+                <h2>Sponsors Niveau 2</h2>
 
                 <div class="row">
                     <div class="col-sm-2 col-xs-6 text-center">
