@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1 class="brand-heading">
-                        {{ Config::get('site.name') }} {{ Config::get('site.slogan') }}<br>
+                        {{ Config::get('site.name') }}<br>
                         <small>
                             <small>
                                 <small>Les 17 et 18 mai à l'hôtel Royal Oasis.</small>

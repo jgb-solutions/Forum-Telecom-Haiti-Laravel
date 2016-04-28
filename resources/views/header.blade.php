@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{{ Config::get('site.name') }}</title>
+    <title>{{ Config::get('site.name') }} - {{ Config::get('site.slogan') }}</title>
 
     <!-- Custom CSS -->
     <link href="{{ elixir('css/app.css') }}" rel="stylesheet">

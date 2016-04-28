@@ -239,7 +239,7 @@
                         class="img-responsive img-circle team">
                 <div class="caption">
                     <h4>Jn Gérard Bousiquot<br>
-                        <small>Dévloppeur Web</small>
+                        <small>Développeur Web</small>
                     </h4>
                 </div>
                 </a>
@@ -251,11 +251,11 @@
                                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                 <h4 class="modal-title text-center">
                                     Jean Gérard Bousiquot <br>
-                                    <small>Dévloppeur Web</small>
+                                    <small>Développeur Web</small>
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est Dévloppeur/Designer Web/Mobile et Graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a target="blank" href="http://tikwenpam.net">Ti&nbsp;Kwen&nbsp;Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</p>
+                                <p class="text-left">﻿Jean Gérard Bousiquot, originaire de Port-au-Prince, Haïti, est Développeur/Designer Web/Mobile et Graphiste. Tout jeune il a entrepris des projets interessants parmi lesquels <a target="blank" href="http://tikwenpam.net">Ti&nbsp;Kwen&nbsp;Pam</a>, un site de partage de musiques et vidéos très populaire dans le milieu haitien.</p>
 
                                 <p class="text-left">
                                     Il est passionément curieux et cherche toujours à augmenter ses connaissances en lisant de bons livres, mais qui traitent des sujets rodant autour de l'informatique. Il cherche presqu'à devenir le Mark Zuckerberg du pays en passant la majorité de son temps devant un ordinateur à dévlopper des produits technologiques pour le web et les plateformes mobiles Android et iOS.
