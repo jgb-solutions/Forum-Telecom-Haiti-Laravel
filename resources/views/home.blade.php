@@ -21,5 +21,7 @@
 	<hr>
 
     @include('contact')
+ 
+    @include('map')
 
 @include('footer')

@@ -381,3 +381,18 @@ img.parter, img.team {
     width: 100%;
     margin-bottom: .5em;
 }
+
+#lequipe, #contact, #inscription, #a-propos {
+    position: relative;
+    &::after {
+        content: "";
+        background-image: url('../../img/forum-telecom-haiti-250.png');
+        opacity: 0.04;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
+}
