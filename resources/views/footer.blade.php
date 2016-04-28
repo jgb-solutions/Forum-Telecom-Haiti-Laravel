@@ -26,10 +26,10 @@
                                 </a>
                             </p>
                         </div>
-                        <!-- <div class="col-sm-3 col-xs-6">
+                        <div class="col-sm-3 col-xs-6">
                             <p>
                                 <a
-                                    href="https://facebook.com/forumtelecomhaiti"
+                                    href="https://plus.google.com/106792270497833214434/about"
                                     target="blank"
                                     class="btn btn-danger ">
                                     <i class="fa fa-google-plus fa-fw"></i>
@@ -37,7 +37,8 @@
                                 </a>
                             </p>
                         </div>
-                        <div class="col-sm-3 col-xs-6">
+                        
+                        <!-- <div class="col-sm-3 col-xs-6">
                             <p>
                                 <a
                                     href="https://facebook.com/forumtelecomhaiti"
