@@ -3,13 +3,30 @@
 
 <head>
 
+
+    <title>{{ Config::get('site.name') }} - {{ Config::get('site.slogan') }}</title>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="{{ config('site.description') }}">
+    <meta name="author" content="Jean Gérard Bousiquot">
 
-    <title>{{ Config::get('site.name') }} - {{ Config::get('site.slogan') }}</title>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@ForumTelecomHT"/>
+    <meta name="twitter:creator" content="@jgbneatdesign"/>
+     
+    <meta property="fb:admins" content="jeveuxblogger"/>
+    <meta property="fb:app_id" content="112699365802983"/>
+    <meta property="og:locale" content="fr_FR"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="{{ config('site.name') }}"/>
+    <link rel="canonical" href="{{ config('site.url') }}"/>
+
+    <meta property="og:url" content="{{ config('site.url') }}"/>
+    <meta property="og:title" content="{{ Config::get('site.name') }} - {{ Config::get('site.slogan') }}"/>
+    <meta property="og:description" content="{{ config('site.description') }}"/>
+    <meta property="og:image" content="{{ config('site.url') }}/img/forum-telecom-haiti-logo.png"/>
 
     <!-- Custom CSS -->
     <link href="{{ elixir('css/app.css') }}" rel="stylesheet">
