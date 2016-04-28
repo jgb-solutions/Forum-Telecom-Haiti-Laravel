@@ -14,7 +14,7 @@
 
     @include('form-register')
 
-    @include('partners')
+    @include('sponsors')
 
     @include('team')
 

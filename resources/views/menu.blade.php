@@ -32,7 +32,7 @@
                     <a class="page-scroll" href="#inscription">S'inscrire</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#partenaires">Partenaires</a>
+                    <a class="page-scroll" href="#sponsors">Sponsors</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#lequipe">L'Équipe</a>
