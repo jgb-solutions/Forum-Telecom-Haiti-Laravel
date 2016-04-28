@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1 class="brand-heading">
-                        {{ Config::get('site.name') }} <br>
+                        {{ Config::get('site.name') }} {{ Config::get('site.slogan') }}<br>
                         <small>
                             <small>
                                 <small>Les 17 et 18 mai à l'hôtel Royal Oasis.</small>
@@ -12,7 +12,7 @@
                         </small>
                     </h1>
                     <p class="intro-text">
-                        La rencontre des acteurs de télécommunications en Haiti.
+                        {{ Config::get('site.slogan') }}
                     </p>
                     <a href="#a-propos" class="btn btn-circle page-scroll">
                         <i class="fa fa-angle-double-down animated"></i>

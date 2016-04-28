@@ -70,7 +70,9 @@
                                 </h4>
                             </div>
                             <div class="modal-body">
-                                <p class="text-left">﻿Biographie de Belavoir Felner.</p>
+                                <p class="text-left">﻿
+                                    Belavoir Felner, Ecrivain, Ingénieur Civil de formation, avec une spécialité en construction parasismique, Théologien, PDG de L’Institut de Recherche Environnementale et Technologique (I.R.E.T), Directeur Général de la CRAIE (Centre de Recherche Environnementale et Technologique),Coordonnateur Adjoint de GESTE-Haïti. Très tôt dans sa vie il développe une passion pour la télécommunication et les nouvelles technologies de l’information, où il a collaboré à la réalisation de nombreux projets en collaboration avec divers organisations locales et internationales. Animateur de radio et coach en développement personnel, il a ensuite contribué au lancement de plusieurs entreprises, actuellement il mène un plaidoyer en faveur de l’implantation des TIC dans toutes régions d’Haïti.
+                                </p>
                             </div>
                             <div class="modal-footer">
                                <a
@@ -79,7 +81,7 @@
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
                                 <a
-                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    href="https://twitter.com/felnerbel"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn
@@ -142,7 +144,7 @@
             <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#marie-modal'>
                     <img
-                        src="img/junie-500x500.jpg"
+                        src="img/junie-500x500-2.jpg"
                         alt="Marie Junie Jules"
                         class="img-responsive img-circle team">
                 <div class="caption">
@@ -167,12 +169,12 @@
                             </div>
                             <div class="modal-footer">
                                <a
-                                    href="https://twitter.com/jgbneatdesign"
+                                    href="https://twitter.com/mjunie87"
                                     class="btn btn-info" role="button"
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
                                 <a
-                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    href="https://www.linkedin.com/in/marie-junie-jules-30570011b"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn
