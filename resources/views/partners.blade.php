@@ -29,7 +29,7 @@
                         title="Ti Kwen Pam - Rezo Sosyal Mizik Ayisyen">
                 </div>
                 <div class="col-sm-3 col-xs-6 text-center">
-                    <img src="img/logo-byEliacin-350.png"
+                    <img src="img/eliacin-500x500.jpg"
                         class="img-responsive img-rounded parter">
                 </div>
                 <div class="col-sm-3 col-xs-6 text-center">
