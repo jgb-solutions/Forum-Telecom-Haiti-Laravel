@@ -18,7 +18,7 @@ class MainController extends Controller
     	return view('home');
     }
 
-    public function postProcessRegistration(Request $request)
+    public function postRegister(Request $request)
     {
     	$data = $request->all();
 
@@ -41,8 +41,26 @@ class MainController extends Controller
     	return $response = ['success' => true, 'data' => $request->all()];
     }
 
-    public function postProcessContact()
+    public function postContact()
     {
-    	
+    	$data = $request->all();
+
+    	$beautymail = app()->make(Beautymail::class);
+
+	    $beautymail->send('emails.welcome', $data, function($message) use ($data)
+	    {
+	        $message
+	            ->from( config('site.email') )
+	            ->to($data['email'], $data['firstname'])
+	            ->subject('Contact')
+	            ->replyTo( config('site.email') );
+	    });
+
+    	if (Mail::failures())
+    	{
+		        // return response showing failed emails
+		}
+
+    	return $response = ['success' => true, 'data' => $request->all()];
     }
 }
