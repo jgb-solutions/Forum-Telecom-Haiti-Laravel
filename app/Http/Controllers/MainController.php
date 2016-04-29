@@ -29,7 +29,7 @@ class MainController extends Controller
 
     	$data = $request->all();
 
-    	$data['titre'] = 'Complétion de votre inscription au forum!';
+    	$data['titre'] = 'Inscription Réussie!';
 
     	$beautymail = app()->make(Beautymail::class);
 

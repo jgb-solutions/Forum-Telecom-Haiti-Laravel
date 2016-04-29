@@ -9,7 +9,13 @@
 
     @include('beautymail::templates.ark.contentStart')
         <p>
-            Nous vous remercions pour l'intérêt que vous portez a ce forum. Votre participation a été confirmée. Prière de présenter une pièce d'indentité le jour du forum.
+            Nous vous remercions pour l'intérêt que vous portez a ce forum. Votre participation a été confirmée. Prière de présenter une pièce d'indentité le jour du forum. <br>
+
+            Heure d'ouverture 9:00 AM.
+        </p>
+
+        <p>
+        	<img src="/img/flyer.png" width="100%">
         </p>
 
     @include('beautymail::templates.ark.contentEnd')
