@@ -177,7 +177,7 @@
                     <h3 class="text-success">
                         Félicitations! Inscription réussie.<br><br>
                         <small><small>
-                            Veuillez consulter votre e-mail. vous avez reçu les instructions nécessaires pour la suivie de votre inscription. <br>
+                            Veuillez consulter votre e-mail. vous avez reçu un e-mail de confirmation. <br>
                             <span ng-bind="registered">
                                 @{{ registered }}
                             </span>
