@@ -7,9 +7,11 @@
         'level' => 'h1'
     ])
 
+	<h4>Message de {{ $firstname . ' ' . $lastname }}</h4>
+
     @include('beautymail::templates.ark.contentStart')
         <p>
-            Nous vous remercions pour l'intérêt que vous portez a ce forum. Votre participation a été confirmée. Prière de présenter une pièce d'indentité le jour du forum.
+            {{ $body }}
         </p>
 
     @include('beautymail::templates.ark.contentEnd')

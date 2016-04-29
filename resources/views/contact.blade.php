@@ -132,12 +132,15 @@
                                     <button
                                         type="submit"
                                         class="btn btn-primary"
-                                        ng-disabled="contactForm.$invalid">
-                                        <span ng-hide="formProcessing">
-                                            <i class="fa fa-envelope"></i> Envoyer</span>
-                                        <span ng-show="formProcessing">Envoie en cours
+                                        ng-disabled="contactForm.$invalid"
+                                        ng-hide="formProcessing">
+                                            <i class="fa fa-envelope"></i> Envoyer
+                                    </button>
+                                    <button
+                                        type="button"
+                                        class="btn btn-info"
+                                        ng-show="formProcessing">Envoie en cours
                                             <i class="fa fa-spinner fa-spin"></i>
-                                        </span>
                                     </button>
                                 </p>
                             </form>

@@ -151,10 +151,14 @@
                                     <button
                                         type="submit"
                                         class="btn btn-primary"
-                                        ng-disabled="regForm.$invalid">
-                                        <span ng-hide="formProcessing">
-                                            <i class="fa fa-user"></i> S'inscrire</span>
-                                        <span ng-show="formProcessing">Inscription en cours
+                                        ng-disabled="regForm.$invalid"
+                                        ng-hide="formProcessing">
+                                            <i class="fa fa-user"></i> S'inscrire
+                                    </button>
+                                    <button
+                                        type="button"
+                                        class="btn btn-info"
+                                        ng-show="formProcessing">Inscription en cours
                                             <i class="fa fa-spinner fa-spin"></i>
                                         </span>
                                     </button>
