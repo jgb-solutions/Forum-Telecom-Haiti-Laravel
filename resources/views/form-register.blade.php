@@ -176,9 +176,12 @@
                 <div ng-show="doneProcessing" class="text-center">
                     <h3 class="text-success">
                         Félicitations! Inscription réussie.<br><br>
-                        <small>
-                            Veuillez consulter votre e-mail. vous avez reçu les instructions nécessaires pour la suivie de votre inscription.
-                        </small>
+                        <small><small>
+                            Veuillez consulter votre e-mail. vous avez reçu les instructions nécessaires pour la suivie de votre inscription. <br>
+                            <span ng-bind="registered">
+                                @{{ registered }}
+                            </span>
+                        </small></small>
                     </h3>
                     <p>
                         <button
