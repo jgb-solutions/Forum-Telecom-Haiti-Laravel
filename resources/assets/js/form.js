@@ -6,7 +6,7 @@ angular.module('forumTelecomHaiti', [])
 {
 	$scope.processRegistrationForm = function()
 	{
-		$scope.inputFocus = false;
+		$scope.inputFocusc = false;
 		$scope.formProcessing = true;
 
 		// console.log($scope.user);
@@ -25,6 +25,14 @@ angular.module('forumTelecomHaiti', [])
 		$scope.doneProcessing = false;
 		$scope.inputFocus = true;
 		$scope.user = {};
+	}
+
+	$scope.getRegistered = function()
+	{
+		$http.get('/count').success(function( response )
+		{
+			$scope.registered = response;
+		});
 	}
 
 }])
