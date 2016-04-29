@@ -30,8 +30,8 @@ return [
             'height' => '',
         ],
 
-        'twitter'  => null,
-        'facebook' => null,
+        'twitter'  => 'ForumTelecomHT',
+        'facebook' => 'ForumTelecomHaiti',
         'flickr'   => null,
     ],
 
