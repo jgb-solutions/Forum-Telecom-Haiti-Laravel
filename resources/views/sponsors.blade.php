@@ -46,15 +46,21 @@
                     </div>
                     <div class="col-sm-2 col-xs-6 text-center">
                         <img src="img/eliacin-500x500.jpg"
-                            class="img-responsive img-rounded sponsors">
+                            class="img-responsive img-rounded sponsors"
+                             alt="Eliacin"
+                            title="Eliacin">
                     </div>
                     <div class="col-sm-2 col-xs-6 text-center">
                         <img src="img/new-vision-500x500.jpg"
-                            class="img-responsive img-rounded sponsors">
+                            class="img-responsive img-rounded sponsors"
+                             alt="New Vision"
+                            title="New Vision">
                     </div>
                     <div class="col-sm-2 col-xs-6 text-center">
                         <img src="img/iret.jpg"
-                            class="img-responsive img-rounded sponsors">
+                            class="img-responsive img-rounded sponsors"
+                             alt="IRET"
+                            title="IRET">
                     </div>
                 </div>
             </div>

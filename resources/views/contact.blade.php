@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                 <div ng-hide="doneProcessing">
+                <div ng-hide="doneContacting">
                     <h2 class="text-center ">
                         Contactez-nous <br>
                         <small>
@@ -10,7 +10,7 @@
                         </small>
                     </h2>
 
-                   <div class="row">
+                    <div class="row">
                         <div class="col-sm-8 col-sm-offset-2">
                             <form
                                 method="POST"
@@ -83,30 +83,30 @@
                                     </div>
                                 </div>
                                 <div class="form-group"
-                                    ng-class="{'has-error':contactForm.telephone.$invalid && contactForm.telephone.$touched, 'has-success':contactForm.telephone.$valid}">
+                                    ng-class="{'has-error':contactForm.subject.$invalid && contactForm.subject.$touched, 'has-success':contactForm.subject.$valid}">
                                     <input
                                         type="text"
                                         class="form-control"
-                                        id="telephone"
-                                        name="telephone"
+                                        id="subject"
+                                        name="subject"
                                         placeholder="Sujet"
-                                        ng-model="contact.telephone"
+                                        ng-model="contact.subject"
                                         ng-required="true"
                                         ng-minlength="6">
                                     <div
                                         class="text-center text-danger"
-                                        ng-show="contactForm.telephone.$invalid && contactForm.telephone.$touched">
+                                        ng-show="contactForm.subject.$invalid && contactForm.subject.$touched">
                                         Vous devez entrer un sujet
                                     </div>
                                     <div
                                         class="text-center text-danger"
-                                        ng-show="contactForm.telephone.$invalid &&
-                                        contactForm.telephone.$error.minlength">
+                                        ng-show="contactForm.subject.$invalid &&
+                                        contactForm.subject.$error.minlength">
                                         Votre sujet doit être supérieur à 6 caractères
                                     </div>
                                 </div>
                                 <div class="form-group"
-                                    ng-class="{'has-error':contactForm.activite.$invalid && contactForm.activite.$touched, 'has-success':contactForm.activite.$valid}">
+                                    ng-class="{'has-error':contactForm.message.$invalid && contactForm.message.$touched, 'has-success':contactForm.message.$valid}">
                                     <textarea
                                         type="text"
                                         class="form-control"
@@ -135,13 +135,15 @@
                                         ng-disabled="contactForm.$invalid">
                                         <span ng-hide="formProcessing">
                                             <i class="fa fa-envelope"></i> Envoyer</span>
-                                        <span ng-show="formProcessing">Envoie en cours...</span>
+                                        <span ng-show="formProcessing">Envoie en cours
+                                            <i class="fa fa-spinner fa-spin"></i>
+                                        </span>
                                     </button>
                                 </p>
                             </form>
                         </div>
                     </div>
-                <div>
+                </div>
                 <div ng-show="doneContacting" class="text-center">
                     <h3 class="text-success">
                         Félicitations! Votre message a été envoyé.<br><br>
@@ -152,8 +154,8 @@
                     <p>
                         <button
                             class="btn btn-info"
-                            ng-click="newRegistrationProcess()">
-                            Nouvelle inscription
+                            ng-click="newContactProcess()">
+                            Nous contacter à nouveau
                         </button>
                     </p>
                 </div>

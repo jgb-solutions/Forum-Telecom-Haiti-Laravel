@@ -154,7 +154,9 @@
                                         ng-disabled="regForm.$invalid">
                                         <span ng-hide="formProcessing">
                                             <i class="fa fa-user"></i> S'inscrire</span>
-                                        <span ng-show="formProcessing">Inscription en cours...</span>
+                                        <span ng-show="formProcessing">Inscription en cours
+                                            <i class="fa fa-spinner fa-spin"></i>
+                                        </span>
                                     </button>
                                 </p>
                             </form>

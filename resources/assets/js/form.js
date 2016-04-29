@@ -11,7 +11,7 @@ angular.module('forumTelecomHaiti', [])
 
 		// console.log($scope.user);
 
-		$http.post('/process', $scope.user).success(function(response)
+		$http.post('/process_registration', $scope.user).success(function(response)
 		{
 			console.log(response);
 
@@ -38,7 +38,7 @@ angular.module('forumTelecomHaiti', [])
 
 		// console.log($scope.user);
 
-		$http.post('/process', $scope.contact).success(function(response)
+		$http.post('/process_contact', $scope.contact).success(function(response)
 		{
 			console.log(response);
 

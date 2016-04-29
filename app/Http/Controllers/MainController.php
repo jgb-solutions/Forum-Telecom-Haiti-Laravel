@@ -18,7 +18,7 @@ class MainController extends Controller
     	return view('home');
     }
 
-    public function postProcess(Request $request)
+    public function postProcessRegistration(Request $request)
     {
     	$data = $request->all();
 
@@ -39,5 +39,10 @@ class MainController extends Controller
 		}
 
     	return $response = ['success' => true, 'data' => $request->all()];
+    }
+
+    public function postProcessContact()
+    {
+    	
     }
 }
