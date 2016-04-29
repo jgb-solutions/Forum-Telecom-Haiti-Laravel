@@ -20,21 +20,24 @@ class MainController extends Controller
 
     public function postProcess(Request $request)
     {
-    	// Mail::queue(view, data, callback, queue)
-    	return $response = ['success' => true, 'data' => $request->all()];
-    }
+    	$data = $request->all();
 
-    public function getTest()
-    {
     	$beautymail = app()->make(Beautymail::class);
 
-	    $beautymail->send('emails.welcome', [], function($message)
+	    $beautymail->send('emails.welcome', $data, function($message) use ($data)
 	    {
 	        $message
 	            ->from( config('site.email') )
-	            ->to('jgbneatdesign@gmail.com', config('site.name'))
-	            ->subject('Welcome!')
+	            ->to($data['email'], $data['firstname'])
+	            ->subject('Complétion de votre inscription au forum')
 	            ->replyTo( config('site.email') );
 	    });
+
+    	if (Mail::failures())
+    	{
+		        // return response showing failed emails
+		}
+
+    	return $response = ['success' => true, 'data' => $request->all()];
     }
 }

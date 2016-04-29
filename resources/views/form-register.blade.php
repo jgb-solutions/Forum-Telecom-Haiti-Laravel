@@ -110,8 +110,7 @@
                                         id="name"
                                         name="activite"
                                         placeholder="Secteur d'activité"
-                                        ng-model="user.activite"
-                                        ng-required="true">
+                                        ng-model="user.activite">
                                     <div
                                         class="text-center text-danger"
                                         ng-show="regForm.activite.$invalid && regForm.activite.$touched">
@@ -126,8 +125,7 @@
                                         id="name"
                                         name="school"
                                         placeholder="Ecole Professionnelle ou Université"
-                                        ng-model="user.school"
-                                        ng-required="true">
+                                        ng-model="user.school">
                                     <div
                                         class="text-center text-danger"
                                         ng-show="regForm.school.$invalid && regForm.school.$touched">
