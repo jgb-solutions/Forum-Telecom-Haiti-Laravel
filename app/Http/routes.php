@@ -11,7 +11,6 @@
 |
 */
 
-Route::controller('/', 'MainController');
 
 /*
 |--------------------------------------------------------------------------
@@ -24,6 +23,8 @@ Route::controller('/', 'MainController');
 |
 */
 
-Route::group(['middleware' => ['web']], function () {
-    //
+Route::group(['middleware' => ['web']], function ()
+{
+	Route::controller('/', 'MainController');
 });
+
