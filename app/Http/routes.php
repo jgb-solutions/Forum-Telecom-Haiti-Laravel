@@ -29,6 +29,4 @@
 // 	Route::controller('/', 'MainController');
 // });
 
-Route::get('/', 'MainController@index');
-Route::post('register', 'MainController@register');
-Route::post('contact', 'MainController@contact');
+Route::controller('/', 'MainController');

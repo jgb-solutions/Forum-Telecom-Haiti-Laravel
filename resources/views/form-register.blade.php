@@ -4,7 +4,12 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <div ng-hide="doneProcessing">
                     <h2 class="text-center">S'inscrire au Forum <br>
-                        <small>Uitilisez la forme pour vous inscrire.</small>
+                        <small><small>
+                            <span ng-bind="registered">
+                                @{{ registered }} personnes se sont déjà inscrites <br>
+                            </span>
+                            Uitilisez la forme pour vous inscrire.
+                        </small></small>
                     </h2>
 
                     <div class="row">

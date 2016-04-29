@@ -11,15 +11,16 @@ use Snowfire\Beautymail\Beautymail;
 
 use Mail;
 use App\User;
+use Cache;
 
 class MainController extends Controller
 {
-    public function index()
+    public function getIndex()
     {
     	return view('home');
     }
 
-    public function register(Request $request)
+    public function postRegister(Request $request)
     {
         if ( User::whereEmail( $request->input('email') )->first() )
         {
@@ -51,7 +52,7 @@ class MainController extends Controller
         return $response = ['success' => true, 'status' => 1];
     }
 
-    public function contact(Request $request)
+    public function postContact(Request $request)
     {
     	$data = $request->all();
 
@@ -75,5 +76,16 @@ class MainController extends Controller
 		}
 
     	return $response = ['success' => true];
+    }
+
+    public function getCount()
+    {
+        // $registered = User::count();
+        return User::count();
+
+        $value = Cache::remember('users', 0, function()
+        {
+            return User::count();
+        });
     }
 }

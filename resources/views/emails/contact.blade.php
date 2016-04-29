@@ -7,8 +7,6 @@
         'level' => 'h1'
     ])
 
-	<h4>Message de {{ $firstname . ' ' . $lastname }}</h4>
-
     @include('beautymail::templates.ark.contentStart')
         <p>
             {{ $body }}
