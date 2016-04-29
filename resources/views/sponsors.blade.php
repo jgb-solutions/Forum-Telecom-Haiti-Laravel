@@ -62,6 +62,12 @@
                              alt="IRET"
                             title="IRET">
                     </div>
+                    <div class="col-sm-2 col-xs-6 text-center">
+                        <img src="img/jethro.png"
+                            class="img-responsive img-rounded sponsors"
+                             alt="Jethro - The Moment Photography"
+                            title="Jethro - The Moment Photography">
+                    </div>
                 </div>
             </div>
         </div>
