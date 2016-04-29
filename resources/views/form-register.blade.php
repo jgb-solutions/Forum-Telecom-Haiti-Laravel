@@ -31,7 +31,7 @@
                                         placeholder="Prénom"
                                         ng-model="user.firstname"
                                         ng-required="true"
-                                        ng-minlength="6"
+                                        ng-minlength="3"
                                         ng-focus="inputFocus">
                                     <div
                                         class="text-center text-danger"
@@ -42,7 +42,7 @@
                                         class="text-center text-danger"
                                         ng-show="regForm.firstname.$invalid &&
                                         regForm.firstname.$error.minlength">
-                                        Votre prénom doit être supérieur à 6 caractères
+                                        Votre prénom doit être supérieur à 3 caractères
                                     </div>
                                 </div>
                                 <div class="form-group"
@@ -55,7 +55,7 @@
                                         placeholder="Votre nom"
                                         ng-model="user.lastname"
                                         ng-required="true"
-                                        ng-minlength="6">
+                                        ng-minlength="3">
                                     <div
                                         class="text-center text-danger"
                                         ng-show="regForm.lastname.$invalid && regForm.lastname.$touched">
@@ -65,7 +65,7 @@
                                         class="text-center text-danger"
                                         ng-show="regForm.lastname.$invalid &&
                                         regForm.lastname.$error.minlength">
-                                        Votre nom doit être supérieur à 6 caractères
+                                        Votre nom doit être supérieur à 3 caractères
                                     </div>
                                 </div>
                                 <div class="form-group"
