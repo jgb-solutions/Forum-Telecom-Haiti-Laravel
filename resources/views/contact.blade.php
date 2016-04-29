@@ -5,9 +5,9 @@
                 <div ng-hide="doneContacting">
                     <h2 class="text-center ">
                         Contactez-nous <br>
-                        <small>
+                        <small><small>
                             <a class="light" href="mailto:info@forumtelecomhaiti.com">info@forumtelecomhaiti.com</a>
-                        </small>
+                        </small></small>
                     </h2>
 
                     <div class="row">
