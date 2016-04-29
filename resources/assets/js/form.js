@@ -4,6 +4,15 @@ angular.module('forumTelecomHaiti', [])
 
 .controller('RegistrationController', ['$scope', '$http', function($scope, $http)
 {
+	$scope.getRegistered = function()
+	{
+		$http.get('/count').success(function( response )
+		{
+			$scope.registered = response + ' personnes se sont déjà inscrites';
+		});
+	}
+
+
 	$scope.processRegistrationForm = function()
 	{
 		$scope.inputFocusc = false;
@@ -25,15 +34,10 @@ angular.module('forumTelecomHaiti', [])
 		$scope.doneProcessing = false;
 		$scope.inputFocus = true;
 		$scope.user = {};
+		$scope.getRegistered();
 	}
 
-	$scope.getRegistered = function()
-	{
-		$http.get('/count').success(function( response )
-		{
-			$scope.registered = response + ' personnes se sont déjà inscrites';
-		});
-	}
+
 
 	$scope.getRegistered();
 
