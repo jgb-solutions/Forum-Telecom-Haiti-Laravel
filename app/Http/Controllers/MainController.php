@@ -56,6 +56,7 @@ class MainController extends Controller
     {
     	$data = $request->all();
 
+        $data['fullname'] = $request->input('firstname') . ' ' . $request->input('lastname');
     	$data['titre'] = 'Nouveau contact';
     	$data['body'] = $data['message'];
 

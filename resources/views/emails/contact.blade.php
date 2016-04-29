@@ -3,7 +3,7 @@
 @section('content')
 
     @include('beautymail::templates.ark.heading', [
-        'heading' => $data['firstname'] . ' ' . $data['lastname'],
+        'heading' => $fullname,
         'level' => 'h1'
     ])
 
