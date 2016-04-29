@@ -15,7 +15,7 @@
         </p>
 
         <p>
-        	<img src="/img/flyer.png" width="100%">
+        	<img src="{{url('img/flyer.png')}}" width="100%">
         </p>
 
     @include('beautymail::templates.ark.contentEnd')
