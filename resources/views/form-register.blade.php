@@ -6,8 +6,8 @@
                     <h2 class="text-center">S'inscrire au Forum <br>
                         <small><small>
                             <span ng-bind="registered">
-                                @{{ registered }} personnes se sont déjà inscrites <br>
-                            </span>
+                                @{{ registered }}
+                            </span><br>
                             Uitilisez la forme pour vous inscrire.
                         </small></small>
                     </h2>

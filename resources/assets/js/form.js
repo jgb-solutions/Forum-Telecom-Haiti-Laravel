@@ -31,9 +31,11 @@ angular.module('forumTelecomHaiti', [])
 	{
 		$http.get('/count').success(function( response )
 		{
-			$scope.registered = response;
+			$scope.registered = response + ' personnes se sont déjà inscrites';
 		});
 	}
+
+	$scope.getRegistered();
 
 }])
 
