@@ -13,9 +13,9 @@
     <meta name="author" content="Jean Gérard Bousiquot">
 
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="@ForumTelecomHT"/>
+    <meta name="twitter:site" content="@ForumTelecomHT" />
     <meta name="twitter:creator" content="@jgbneatdesign"/>
-     
+
     <meta property="fb:admins" content="jeveuxblogger"/>
     <meta property="fb:app_id" content="112699365802983"/>
     <meta property="og:locale" content="fr_FR"/>
