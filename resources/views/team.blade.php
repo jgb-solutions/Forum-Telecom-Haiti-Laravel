@@ -124,7 +124,7 @@
                             </div>
                             <div class="modal-footer">
                                <a
-                                    href="https://twitter.com/jgbneatdesign"
+                                    href="https://twitter.com/byeliacin"
                                     class="btn btn-info" role="button"
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
