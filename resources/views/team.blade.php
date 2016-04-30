@@ -242,7 +242,7 @@
                         alt="Jean Gérard Bousiquot"
                         class="img-responsive img-circle team">
                 <div class="caption">
-                    <h4>Jethro J. Sereme<br>
+                    <h4>Jn Gérard Bousiquot<br>
                         <small>Développeur Web</small>
                     </h4>
                 </div>
