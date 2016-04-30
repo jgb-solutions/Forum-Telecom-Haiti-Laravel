@@ -37,7 +37,8 @@ class MainController extends Controller
 	    {
 	        $message
 	            ->from( config('site.email'), config('site.name') )
-	            ->to( $data['email'], $data['firstname'] . ' ' . $data['lastname'] )
+                ->to( $data['email'], $data['firstname'] . ' ' . $data['lastname'] )
+	            ->cc( config('site.email'), config('site.name') )
 	            ->subject( $data['titre'])
 	            ->replyTo( config('site.email') );
 	    });

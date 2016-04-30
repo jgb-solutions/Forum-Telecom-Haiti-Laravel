@@ -9,7 +9,7 @@
 
     @include('beautymail::templates.ark.contentStart')
         <p>
-            Nous vous remercions pour l'intérêt que vous portez a ce forum. Votre participation a été confirmée. Prière de présenter une pièce d'indentité le jour du forum. <br>
+            Hello {{ $firstname . ' ' . $lastname }}! Nous vous remercions pour l'intérêt que vous portez a ce forum. Votre participation a été confirmée. Prière de présenter une pièce d'indentité le jour du forum. <br>
 
             Heure d'ouverture 9:00 AM.
         </p>
