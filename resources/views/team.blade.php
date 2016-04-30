@@ -129,7 +129,7 @@
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
                                 <a
-                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    href="https://ht.linkedin.com/in/jreliacin"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn
