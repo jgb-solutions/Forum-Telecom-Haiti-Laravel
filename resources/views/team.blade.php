@@ -242,7 +242,7 @@
                         alt="Jean Gérard Bousiquot"
                         class="img-responsive img-circle team">
                 <div class="caption">
-                    <h4>Jn Gérard Bousiquot<br>
+                    <h4>Jethro J. Sereme<br>
                         <small>Développeur Web</small>
                     </h4>
                 </div>
@@ -283,6 +283,51 @@
                                     class="btn btn-default" role="button">
                                     <i class="fa fa-globe"></i> Site Web
                                 </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-sm-3 col-xs-6">
+                <a data-toggle="modal" href='#jethro-modal'>
+                    <img
+                        src="img/jetro-social-media-manager.jpg"
+                        alt="Jean Gérard Bousiquot"
+                        class="img-responsive img-circle team">
+                <div class="caption">
+                    <h4>Jethro J. Sereme<br>
+                        <small>Social Media Manager</small>
+                    </h4>
+                </div>
+                </a>
+
+                <div class="modal fade" id="jethro-modal">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title text-center">
+                                    Jethro J. Sereme <br>
+                                    <small>Social Media Manager</small>
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-left">﻿Bio</p>
+                            </div>
+                            <div class="modal-footer">
+                               <a
+                                    href="https://twitter.com/jethrohaiti"
+                                    class="btn btn-info" role="button"
+                                    target="blank">
+                                    <i class="fa fa-twitter"></i> Twitter</a>
+                                <!-- <a
+                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    target="blank"
+                                    class="btn btn-primary" role="button">
+                                    <i class="fa fa-linkedin"></i> LinkedIn
+                                </a> -->
                             </div>
                         </div>
                     </div>
