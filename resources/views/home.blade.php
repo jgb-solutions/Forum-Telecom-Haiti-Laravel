@@ -4,6 +4,8 @@
 
     @include('head')
 
+    @include('countdown')
+
     @include('about')
 
     @include('description')

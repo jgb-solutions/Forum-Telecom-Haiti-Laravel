@@ -33,3 +33,18 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
   }
 });
+
+
+/* Countdown */
+$(function()
+{
+    FlipClock.Lang.Custom = { days:'Jours', hours:'Heures', minutes:'Minutes', seconds:'Secondes' };
+    var opts = {
+        clockFace: 'DailyCounter',
+        countdown: true,
+        language: 'Custom'
+    };
+    var countdown = 1463497200 - ((new Date().getTime())/1000); // from: 05/17/2016 09:00 am -0600
+    countdown = Math.max(1, countdown);
+    $('.clock-builder-output').FlipClock(countdown, opts);
+});

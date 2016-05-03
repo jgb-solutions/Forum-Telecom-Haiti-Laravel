@@ -23,6 +23,8 @@ elixir(function(mix) {
             'angular.js',
             'bootstrap.js',
             'jquery.easing.js',
+            'jquery.countdown.min.js',
+            'flipclock.min.js',
             'site.js',
             'form.js',
             'team.js'

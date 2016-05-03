@@ -1,5 +1,5 @@
 <header class="intro">
-    <div class="intro-body">
+<!--     <div class="intro-body">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
@@ -24,26 +24,26 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
-    <!-- <div id="carousel-id" class="carousel slide" data-ride="carousel">
+    <div id="carousel-id" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carousel-id" data-slide-to="0" class=""></li>
-            <li data-target="#carousel-id" data-slide-to="1" class=""></li>
-            <li data-target="#carousel-id" data-slide-to="2" class="active"></li>
+           <!--  <li data-target="#carousel-id" data-slide-to="1" class=""></li>
+            <li data-target="#carousel-id" data-slide-to="2" class="active"></li> -->
         </ol>
         <div class="carousel-inner">
             <div class="item active">
-                <img src="http://placehold.it/1920x1080">
+                <img src="/img/image1.png">
                 <div class="container">
-                    <div class="carousel-caption">
+                    <!-- <div class="carousel-caption">
                         <h1>Example headline.</h1>
                         <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
                         <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
-            <div class="item">
+           <!--  <div class="item">
                 <img src="http://placehold.it/1920x1080">
                 <div class="container">
                     <div class="carousel-caption">
@@ -62,9 +62,9 @@
                         <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <a class="left carousel-control" href="#carousel-id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div> -->
+    </div>
 </header>
