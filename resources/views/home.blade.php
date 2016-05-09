@@ -14,7 +14,7 @@
 
     @include('event')
 
-    @include('form-register')
+    @include('register')
 
     @include('sponsors')
 

@@ -5,9 +5,9 @@
                 <div ng-hide="doneProcessing">
                     <h2 class="text-center">S'inscrire au Forum <br>
                         <small><small>
-                            <span ng-bind="registered">
+                            <!-- <span>
                                 @{{ registered }}
-                            </span><br>
+                            </span><br> -->
                             Uitilisez la forme pour vous inscrire.
                         </small></small>
                     </h2>

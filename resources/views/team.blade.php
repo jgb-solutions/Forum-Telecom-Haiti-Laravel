@@ -154,7 +154,7 @@
                 </div>
                 </a>
 
-                <div class="modal fade" id="marie-modal">
+                <!-- <div class="modal fade" id="marie-modal">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -186,7 +186,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
 
@@ -203,7 +203,7 @@
                 </div>
                 </a>
 
-                <div class="modal fade" id="kedson-modal">
+               <!--  <div class="modal fade" id="kedson-modal">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -231,7 +231,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
 
@@ -303,7 +303,7 @@
                 </div>
                 </a>
 
-                <div class="modal fade" id="jethro-modal">
+                <!-- <div class="modal fade" id="jethro-modal">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -322,16 +322,16 @@
                                     class="btn btn-info" role="button"
                                     target="blank">
                                     <i class="fa fa-twitter"></i> Twitter</a>
-                                <!-- <a
+                                <a
                                     href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn
-                                </a> -->
+                                </a>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
