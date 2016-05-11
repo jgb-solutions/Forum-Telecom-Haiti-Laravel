@@ -11,12 +11,12 @@
                             alt="CONATEL"
                             title="CONATEL">
                     </div>
-                    <div class="col-sm-3 col-xs-6 text-center">
+                   <!--  <div class="col-sm-3 col-xs-6 text-center">
                         <img src="img/logo-natcom.jpg"
                             class="img-responsive img-rounded sponsors"
                             alt="Natcom"
                             title="Natcom">
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
