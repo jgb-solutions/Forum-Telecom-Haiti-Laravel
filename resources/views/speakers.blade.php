@@ -8,12 +8,12 @@
                     <div class="col-sm-3 col-xs-6">
                         <a data-toggle="modal" href='#stephane-modal'>
                             <img
-                                src="img/stephane.png"
+                                src="img/stephane-square.jpg"
                                 alt="stephane Vincent"
                                 class="img-responsive img-rounded team">
                             <div class="caption">
                                 <h4>Stephane Vincent<br>
-                                    <small>Coordonnateur Adjoint</small>
+                                    <small>Coordonnateur Général de l'e-Gouvernance</small>
                                 </h4>
                             </div>
                         </a>
