@@ -4,7 +4,7 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>L'Événement</h2>
 
-                <p>Forum Telecom Haïti 2016, se déroulera pendant deux (2) jours, les 17 et 18 Mai 2016 de 9h00
+                <p>Forum Telecom Haïti 2016, se déroulera pendant deux (2) jours, le 17 Mai 2016 de 9h00
 
 Am à 5h00 Pm à l’Hôtel Royal Oasis sous le Thème Mondiale de L’Union Internationale De
 
@@ -34,9 +34,7 @@ impact positif dans le secteur des télécommunications relativement au dévelop
 
                 <p>Environ 30 institutions sont attendues à cette 1 ère édition de FORUM TELECOM HAITI où il est
 
-prévu la tenue de plusieurs conférences, débats et expositions à l’Hôtel Royal Oasis les 17 et
-
-18 mai 2016 de 9:00 AM à 5:00 PM.</p>
+prévu la tenue de plusieurs conférences, débats et expositions à l’Hôtel Royal Oasis le 17 mai 2016 de 9:00 AM à 5:00 PM.</p>
             </div>
         </div>
     </div>
