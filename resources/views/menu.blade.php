@@ -29,6 +29,9 @@
                     <a class="page-scroll" href="#evenement">L'Événement</a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#panelistes">Panélistes</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#inscription">S'inscrire</a>
                 </li>
                 <li>

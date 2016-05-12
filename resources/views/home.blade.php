@@ -14,6 +14,8 @@
 
     @include('event')
 
+    @include('speakers')
+
     @include('register')
 
     @include('sponsors')
