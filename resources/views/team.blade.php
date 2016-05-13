@@ -294,6 +294,138 @@
                 <a data-toggle="modal" href='#jethro-modal'>
                     <img
                         src="img/jetro-social-media-manager.jpg"
+                        alt="Jethro J. Sereme"
+                        class="img-responsive img-circle team">
+                <div class="caption">
+                    <h4>Jethro J. Sereme<br>
+                        <small>Social Media Manager</small>
+                    </h4>
+                </div>
+                </a>
+
+                <!-- <div class="modal fade" id="jethro-modal">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title text-center">
+                                    Jethro J. Sereme <br>
+                                    <small>Social Media Manager</small>
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-left">﻿Bio</p>
+                            </div>
+                            <div class="modal-footer">
+                               <a
+                                    href="https://twitter.com/jethrohaiti"
+                                    class="btn btn-info" role="button"
+                                    target="blank">
+                                    <i class="fa fa-twitter"></i> Twitter</a>
+                                <a
+                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    target="blank"
+                                    class="btn btn-primary" role="button">
+                                    <i class="fa fa-linkedin"></i> LinkedIn
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a data-toggle="modal" href='#samuel-modal'>
+                    <img
+                        src="img/samuel-square.jpg"
+                        alt="Samuel Cherisier"
+                        class="img-responsive img-circle team">
+                <div class="caption">
+                    <h4>Samuel Cherisier<br>
+                        <small>Assistant Responsable Communication</small>
+                    </h4>
+                </div>
+                </a>
+
+                <!-- <div class="modal fade" id="samuel-modal">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title text-center">
+                                    JSamuel Cherisier <br>
+                                    <small>Assistant Responsable Communication</small>
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-left">﻿Bio</p>
+                            </div>
+                            <div class="modal-footer">
+                               <a
+                                    href="https://twitter.com/jethrohaiti"
+                                    class="btn btn-info" role="button"
+                                    target="blank">
+                                    <i class="fa fa-twitter"></i> Twitter</a>
+                                <a
+                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    target="blank"
+                                    class="btn btn-primary" role="button">
+                                    <i class="fa fa-linkedin"></i> LinkedIn
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a data-toggle="modal" href='#valery-modal'>
+                    <img
+                        src="img/valery-square.jpg"
+                        alt="Valery Orisma"
+                        class="img-responsive img-circle team">
+                <div class="caption">
+                    <h4>Valery Orisma<br>
+                        <small>Responsable Multimédia</small>
+                    </h4>
+                </div>
+                </a>
+
+                <!-- <div class="modal fade" id="valery-modal">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title text-center">
+                                    Valery Orisma <br>
+                                    <small>Responsable Multimédia</small>
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-left">﻿Bio</p>
+                            </div>
+                            <div class="modal-footer">
+                               <a
+                                    href="https://twitter.com/jethrohaiti"
+                                    class="btn btn-info" role="button"
+                                    target="blank">
+                                    <i class="fa fa-twitter"></i> Twitter</a>
+                                <a
+                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    target="blank"
+                                    class="btn btn-primary" role="button">
+                                    <i class="fa fa-linkedin"></i> LinkedIn
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+
+            <div class="col-sm-3 col-xs-6">
+                <a data-toggle="modal" href='#jethro-modal'>
+                    <img
+                        src="img/jetro-social-media-manager.jpg"
                         alt="Jean Gérard Bousiquot"
                         class="img-responsive img-circle team">
                 <div class="caption">
