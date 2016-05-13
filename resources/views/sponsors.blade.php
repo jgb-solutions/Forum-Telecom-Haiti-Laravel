@@ -80,6 +80,24 @@
                              alt="FD Strategy"
                             title="FD Strategy">
                     </div>
+                    <div class="col-sm-2 col-xs-6 text-center">
+                        <img src="img/kingos.jpg"
+                            class="img-responsive img-rounded sponsors"
+                             alt="Kingo's"
+                            title="Kingo's">
+                    </div>
+                    <div class="col-sm-2 col-xs-6 text-center">
+                        <img src="img/royal.jpg"
+                            class="img-responsive img-rounded sponsors"
+                             alt="Royal Oasis"
+                            title="Royal Oasis">
+                    </div>
+                    <div class="col-sm-2 col-xs-6 text-center">
+                        <img src="img/graphic.jpg"
+                            class="img-responsive img-rounded sponsors"
+                             alt="Graphic Plus"
+                            title="Graphic Plus">
+                    </div>
                 </div>
             </div>
         </div>
