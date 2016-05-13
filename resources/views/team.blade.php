@@ -423,26 +423,26 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a data-toggle="modal" href='#jethro-modal'>
+                <a data-toggle="modal" href='#fito-modal'>
                     <img
-                        src="img/jetro-social-media-manager.jpg"
-                        alt="Jean Gérard Bousiquot"
+                        src="img/fito-square.jpg"
+                        alt="Fito Damour"
                         class="img-responsive img-circle team">
                 <div class="caption">
-                    <h4>Jethro J. Sereme<br>
-                        <small>Social Media Manager</small>
+                    <h4>Fito Damour<br>
+                        <small>Responsable Technique</small>
                     </h4>
                 </div>
                 </a>
 
-                <!-- <div class="modal fade" id="jethro-modal">
+                <!-- <div class="modal fade" id="fito-modal">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                 <h4 class="modal-title text-center">
-                                    Jethro J. Sereme <br>
-                                    <small>Social Media Manager</small>
+                                    Fito Damour <br>
+                                    <small>Responsable Technique</small>
                                 </h4>
                             </div>
                             <div class="modal-body">
