@@ -25,12 +25,12 @@
                 <h2>Sponsors</h2>
 
                 <div class="row">
-                    <div class="col-sm-2 col-xs-6 text-center">
+                    <!-- <div class="col-sm-2 col-xs-6 text-center">
                         <img src="img/conatel-logo-500x500.png"
                             class="img-responsive img-rounded sponsors"
                             alt="CONATEL"
                             title="CONATEL">
-                    </div>
+                    </div> -->
                     <div class="col-sm-2 col-xs-6 text-center">
                         <img src="img/juno7.jpg"
                             class="img-responsive img-rounded sponsors"
