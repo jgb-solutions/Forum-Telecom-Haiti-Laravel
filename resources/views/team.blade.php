@@ -29,13 +29,14 @@
                                 <p class="text-left">﻿Jimmy Aurélus, Pasteur et Responsable de MultiMedia à l’Eglise sur le Rocher, Directeur de Multimedia &amp; Design School (MDS), une ecole d’administration et de multimédia et Président de Forum Telecom Haiti. Très tôt dans sa vie il développe une passion pour la télécommunication et les nouvelles technologies de l’information et de la communication où il a collabore à la réalisation de certains projets de différents organisations locales et internationales tels que Haiti-Alerte (HAALTE), fondation le Berger (FB), Kwabbs, Novergian Church Aid (NCA) etc… Animateur de radio et conseiller de plusieurs groupes musicaux évangéliques, il mène un plaidoyer en faveur de l’implantation des NTIC dans toutes les églises chretiennes evangeliques en Haiti en passant par l’Internet, la construction et l’importance des sites Web, le streaming media, les reseaux, le VoIP, la projection des images, chants, versets et messages.</p>
                             </div>
                             <div class="modal-footer">
-                               <a
+                               <!-- <a
                                     href="https://twitter.com/jgbneatdesign"
                                     class="btn btn-info" role="button"
                                     target="blank">
-                                    <i class="fa fa-twitter"></i> Twitter</a>
+                                    <i class="fa fa-twitter"></i> Twitter
+                                </a> -->
                                 <a
-                                    href="https://www.linkedin.com/in/jean-gérard-bousiquot-85a83689"
+                                    href="https://www.linkedin.com/in/jimmy-aurelus-51b774101"
                                     target="blank"
                                     class="btn btn-primary" role="button">
                                     <i class="fa fa-linkedin"></i> LinkedIn

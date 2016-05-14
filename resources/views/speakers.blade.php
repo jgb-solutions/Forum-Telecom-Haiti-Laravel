@@ -107,7 +107,7 @@
                                 class="img-responsive img-rounded team">
                             <div class="caption">
                                 <h4>James-Taylor LOUIS<br>
-                                    <small>Président Directeur Général <a href="http://10kont.com" target="blank">10kont.com</a></small>
+                                    <small>PDG <a href="http://10kont.com" target="blank">10kont.com</a></small>
                                 </h4>
                             </div>
                         </a>
@@ -119,7 +119,7 @@
                                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                         <h4 class="modal-title text-center">
                                             James-Taylor LOUIS <br>
-                                            <small>Président Directeur Général <a href="http://10kont.com" target="blank">10kont.com</a></small>
+                                            <small>PDG <a href="http://10kont.com" target="blank">10kont.com</a></small>
                                         </h4>
                                     </div>
                                     <div class="modal-body">
@@ -154,7 +154,7 @@
                                 class="img-responsive img-rounded team">
                             <div class="caption">
                                 <h4>Athanase Louis<br>
-                                    <small>Président Directeur Général <a href="http://10kont.com" target="blank">10kont.com</a></small>
+                                    <small>PDG Atalou Microsystem</small>
                                 </h4>
                             </div>
                         </a>
@@ -294,7 +294,7 @@
                                 alt="Giovanni Michele TOGLIA"
                                 class="img-responsive img-rounded team">
                             <div class="caption">
-                                <h4>Giovanni Michele TOGLIA<br>
+                                <h4>Giovanni M. TOGLIA<br>
                                     <small>Directeur Technique Presso THESS ONLINE</small>
                                 </h4>
                             </div>
