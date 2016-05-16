@@ -27,7 +27,7 @@ elixir(function(mix) {
             'flipclock.min.js',
             'site.js',
             'form.js',
-            'team.js'
+            'users.js'
         ])
 
         .version(['css/app.css', 'js/all.js'])

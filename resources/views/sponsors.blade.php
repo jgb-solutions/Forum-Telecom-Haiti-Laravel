@@ -98,6 +98,12 @@
                              alt="Graphic Plus"
                             title="Graphic Plus">
                     </div>
+                    <div class="col-sm-2 col-xs-6 text-center">
+                        <img src="img/1click.jpg"
+                            class="img-responsive img-rounded sponsors"
+                             alt="1 Click"
+                            title="1 Click">
+                    </div>
                 </div>
             </div>
         </div>

@@ -12,6 +12,7 @@ use Snowfire\Beautymail\Beautymail;
 use Mail;
 use App\User;
 use Cache;
+use App;
 
 class MainController extends Controller
 {
@@ -27,25 +28,29 @@ class MainController extends Controller
             return $response = ['success' => true, 'status' => 2];
         }
 
-    	$data = $request->all();
+        $data = $request->all();
 
-    	$data['titre'] = 'Inscription Réussie!';
+        if ( ! App::isLocal() )
+        {
 
-    	$beautymail = app()->make(Beautymail::class);
+            $data['titre'] = 'Inscription Réussie!';
 
-	    $beautymail->send('emails.welcome', $data, function($message) use ($data)
-	    {
-	        $message
-	            ->from( config('site.email'), config('site.name') )
-                ->to( $data['email'], $data['firstname'] . ' ' . $data['lastname'] )
-	            ->cc( config('site.email'), config('site.name') )
-	            ->subject( $data['titre'])
-	            ->replyTo( config('site.email') );
-	    });
+            $beautymail = app()->make(Beautymail::class);
 
-    	if (Mail::failures())
-    	{
-    	   return $response = ['success' => false];
+            $beautymail->send('emails.welcome', $data, function($message) use ($data)
+            {
+                $message
+                    ->from( config('site.email'), config('site.name') )
+                    ->to( $data['email'], $data['firstname'] . ' ' . $data['lastname'] )
+                    ->cc( config('site.email'), config('site.name') )
+                    ->subject( $data['titre'])
+                    ->replyTo( config('site.email') );
+            });
+
+            if (Mail::failures())
+            {
+               return $response = ['success' => false];
+            }
         }
 
         User::create($data);
@@ -89,5 +94,12 @@ class MainController extends Controller
         {
             return User::count();
         });
+    }
+
+    public function getUsers()
+    {
+        $users = User::latest()->paginate(10);
+
+        return $users;
     }
 }

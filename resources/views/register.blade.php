@@ -169,6 +169,8 @@
                                     </button>
                                 </p>
                             </form>
+
+                            @include('users')
                         </div>
                     </div>
                 </div>
