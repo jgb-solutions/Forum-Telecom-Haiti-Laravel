@@ -244,10 +244,10 @@
                         <a data-toggle="modal" href='#frederic-modal'>
                             <img
                                 src="img/frederic-square.jpg"
-                                alt="Frédérique Pierre"
+                                alt="Fédérique Pierre"
                                 class="img-responsive img-rounded team">
                             <div class="caption">
-                                <h4>Frédérique Pierre<br>
+                                <h4>Fédérique Pierre<br>
                                     <small>PDG de 1 Click</small>
                                 </h4>
                             </div>
@@ -259,7 +259,7 @@
                                     <div class="modal-header" hidden="true">
                                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                         <h4 class="modal-title text-center">
-                                            Frédérique Pierre <br>
+                                            Fédérique Pierre <br>
                                             <small>PDG de 1 Click</small>
                                         </h4>
                                     </div>

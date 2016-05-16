@@ -170,7 +170,13 @@
                                 </p>
                             </form>
 
-                            <!-- @include('users') -->
+                            <p>
+                                <a
+                                    class="btn btn-info"
+                                    href='/users'>
+                                        <i class="fa fa-users"></i> Voir Les Participants
+                                </a>
+                            </p>
                         </div>
                     </div>
                 </div>

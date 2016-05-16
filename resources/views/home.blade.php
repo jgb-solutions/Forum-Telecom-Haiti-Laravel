@@ -1,6 +1,6 @@
-@include('header')
+@extends('layouts.default')
 
-@include('menu')
+@section('content')
 
     @include('head')
 
@@ -28,4 +28,4 @@
 
     @include('map')
 
-@include('footer')
+@stop

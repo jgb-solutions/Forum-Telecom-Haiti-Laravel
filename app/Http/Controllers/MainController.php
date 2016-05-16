@@ -100,6 +100,6 @@ class MainController extends Controller
     {
         $users = User::latest()->paginate(10);
 
-        return $users;
+        return view('users');
     }
 }
