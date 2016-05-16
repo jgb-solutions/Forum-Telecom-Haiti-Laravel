@@ -20,8 +20,6 @@
                                 <tr>
                                     <th>Prénom</th>
                                     <th>Nom</th>
-                                    <th>E-mail</th>
-                                    <th>Téléphone</th>
                                     <th>Secteur Activité</th>
                                     <th>Ecole Professionnelle ou Université</th>
                                 </tr>
@@ -31,8 +29,6 @@
                                 <tr>
                                     <td>{{ $user->firstname }}</td>
                                     <td>{{ $user->lastname }}</td>
-                                    <td>{{ $user->email }}</td>
-                                    <td>{{ $user->telephone }}</td>
                                     <td>{{ $user->activite }}</td>
                                     <td>{{ $user->school }}</td>
                                 </tr>
