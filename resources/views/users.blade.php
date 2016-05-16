@@ -5,7 +5,7 @@
 <section id="inscription" class="content-section noselect" ng-controller="RegistrationController">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-12">
                 <br>
                 <br>
                 <br>
@@ -15,7 +15,7 @@
                 <div>
                     <h2 class="text-center"> Participants inscrits à l'événement</h2>
 
-                            <table class="table table-hover">
+                        <table class="table table-hover">
                             <thead>
                                 <tr>
                                     <th>Prénom</th>
@@ -27,11 +27,20 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr ng-repeat="user in users">
-                                    <td>@{{ user.firstname + ' ' + user.lastname }}</td>
+                                @foreach($users as $user)
+                                <tr>
+                                    <td>{{ $user->firstname }}</td>
+                                    <td>{{ $user->lastname }}</td>
+                                    <td>{{ $user->email }}</td>
+                                    <td>{{ $user->telephone }}</td>
+                                    <td>{{ $user->activite }}</td>
+                                    <td>{{ $user->school }}</td>
                                 </tr>
+                                @endforeach
                             </tbody>
                         </table>
+
+                        {{ $users->links() }}
                 </div>
 
             </div>
