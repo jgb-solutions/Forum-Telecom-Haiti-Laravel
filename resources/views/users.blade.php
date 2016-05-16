@@ -40,7 +40,9 @@
                             </tbody>
                         </table>
 
-                        {{ $users->links() }}
+                        <p class="text-center">
+                            {{ $users->links() }}
+                        </p>
                 </div>
 
             </div>
