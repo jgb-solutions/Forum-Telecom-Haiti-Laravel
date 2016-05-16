@@ -96,7 +96,7 @@ class MainController extends Controller
         });
     }
 
-    public function getUsers()
+    public function getParticipants()
     {
         $users = User::latest()->paginate(10);
 
