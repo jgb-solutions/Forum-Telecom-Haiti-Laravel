@@ -99,7 +99,8 @@ class MainController extends Controller
     public function getParticipants()
     {
         $users = User::latest()->paginate(10);
+        $title = 'Liste des participants';
 
-        return view('users', compact('users'));
+        return view('users', compact('users', 'title'));
     }
 }

@@ -1,5 +1,12 @@
 @extends('layouts.default')
 
+@section('menu')
+
+@stop
+
+@section('title')
+@stop
+
 @section('content')
 
 <section id="inscription" class="content-section noselect" ng-controller="RegistrationController">

@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-
-
-    <title>{{ Config::get('site.name') }} - {{ Config::get('site.slogan') }}</title>
+    <title>{{ Config::get('site.name') }} - 
+         @section('title')
+            {{ Config::get('site.slogan') }}
+         @show
+     </title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

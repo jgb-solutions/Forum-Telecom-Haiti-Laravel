@@ -1,6 +1,8 @@
 @include('header')
 
-@include('menu')
+@section('menu')
+    @include('menu')
+@show
 
 @yield('content')
 
