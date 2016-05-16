@@ -6,11 +6,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div>
                     <h2 class="text-center"> Participants inscrits à l'événement</h2>
-
-                    <div class="row">
-                        <div class="col-sm-8 col-sm-offset-2">
 
                             <table class="table table-hover">
                             <thead>
@@ -29,8 +32,6 @@
                                 </tr>
                             </tbody>
                         </table>
-                        </div>
-                    </div>
                 </div>
 
             </div>
