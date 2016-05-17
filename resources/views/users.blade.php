@@ -48,6 +48,11 @@
                             placeholder="Tapez pour rechercher"
                             ng-model="name"
                             ng-change="search()">
+
+                            <p class="text-center" ng-show="loading">
+                                <br>
+                                <i class="fa fa-gear fa-spin fa-3x"></i>
+                            </p>
                     </div>
                 </form>
 

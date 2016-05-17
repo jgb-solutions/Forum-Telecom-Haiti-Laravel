@@ -12,10 +12,14 @@ angular.module('forumTelecomHaiti')
 
 		if ( $scope.name.length > 0 )
 		{
+			$scope.loading = true;
+
 			$http.get('/search/' + $scope.name).success(function(res)
 			{
 				$scope.users = res;
 				console.log(res.length);
+
+				$scope.loading = false;
 				$scope.hide = false;
 			});
 		} else {
