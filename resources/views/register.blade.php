@@ -169,14 +169,6 @@
                                     </button>
                                 </p>
                             </form>
-
-                            <p>
-                                <a
-                                    class="btn btn-info"
-                                    href='/participants'>
-                                        <i class="fa fa-users"></i> Voir Les Participants
-                                </a>
-                            </p>
                         </div>
                     </div>
                 </div>
