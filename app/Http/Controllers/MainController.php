@@ -103,4 +103,12 @@ class MainController extends Controller
 
         return view('users', compact('users', 'title'));
     }
+
+    public function getSearch($name)
+    {
+        return User::where('firstname', 'LIKE', "%$name%")
+                    ->orWhere('lastname', 'LIKE', "%$name%")
+                    ->take(10)
+                    ->get();
+    }
 }

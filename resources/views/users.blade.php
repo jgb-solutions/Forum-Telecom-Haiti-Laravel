@@ -11,10 +11,9 @@
 
 <section id="inscription" class="content-section noselect" ng-controller="RegistrationController">
     <div class="container">
+        <h2 class="text-center"> Participants inscrits à l'événement</h2>
         <div class="row">
-            <div class="col-lg-12">
-                <h2 class="text-center"> Participants inscrits à l'événement</h2>
-
+            <div class="col-sm-7">
                     <table class="table table-hover">
                         <thead>
                             <tr>
@@ -39,6 +38,37 @@
                     <div class="text-center">
                         {{ $users->links() }}
                     </div>
+            </div>
+            <div class="col-sm-5" ng-controller="UsersController">
+                <form>
+                    <div class="form-group">
+                        <input
+                            type="search"
+                            class="form-control"
+                            placeholder="Tapez pour rechercher"
+                            ng-model="name"
+                            ng-change="search()">
+                    </div>
+                </form>
+
+                <table class="table table-hover" ng-hide="hide">
+                    <thead>
+                        <tr>
+                            <th>Prénom</th>
+                            <th>Nom</th>
+                            <th>Secteur Activité</th>
+                            <th>Ecole Profess. ou Uni.</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="user in users">
+                            <td>@{{ user.firstname }}</td>
+                            <td>@{{ user.lastname }}</td>
+                            <td>@{{ user.activite }}</td>
+                            <td>@{{ user.school }}</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>

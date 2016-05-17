@@ -31152,18 +31152,23 @@ angular.module('forumTelecomHaiti')
 
 .controller('UsersController', ['$scope', '$http', function($scope, $http, $window)
 {
-	$scope.getUsers = function()
+	$scope.hide = true;
+
+	$scope.search = function()
 	{
-		console.log('clicked');
+		console.log('searching');
 
-		$http.get('/users', function(res)
+		if ( $scope.name.length > 0 )
 		{
-			$scope.users = res.data;
-
-			console.log($scope.users);
-
-			$window.alert(res);
-		});
+			$http.get('/search/' + $scope.name).success(function(res)
+			{
+				$scope.users = res;
+				console.log(res.length);
+				$scope.hide = false;
+			});
+		} else {
+			$scope.hide = true;
+		}
 	}
 
 }]);
