@@ -108,7 +108,7 @@ class MainController extends Controller
     {
         return User::where('firstname', 'LIKE', "%$name%")
                     ->orWhere('lastname', 'LIKE', "%$name%")
-                    ->take(10)
+                    ->take(50)
                     ->get();
     }
 }
