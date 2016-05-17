@@ -98,7 +98,7 @@ class MainController extends Controller
 
     public function getParticipants()
     {
-        $users = User::latest()->paginate(10);
+        $users = User::latest()->paginate(50);
         $title = 'Liste des participants';
 
         return view('users', compact('users', 'title'));
@@ -108,7 +108,7 @@ class MainController extends Controller
     {
         return User::where('firstname', 'LIKE', "%$name%")
                     ->orWhere('lastname', 'LIKE', "%$name%")
-                    ->take(50)
+                    ->take(10)
                     ->get();
     }
 }
