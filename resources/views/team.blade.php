@@ -379,7 +379,7 @@
                 </div> -->
             </div>
 
-            <div class="col-sm-3 col-xs-6">
+       <!--      <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#valery-modal'>
                     <img
                         src="img/valery-square.jpg"
@@ -392,7 +392,7 @@
                 </div>
                 </a>
 
-                <!-- <div class="modal fade" id="valery-modal">
+                <div class="modal fade" id="valery-modal">
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -420,8 +420,8 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
-            </div>
+                </div>
+            </div> -->
 
             <div class="col-sm-3 col-xs-6">
                 <a data-toggle="modal" href='#fito-modal'>
